@@ -1,0 +1,3966 @@
+fileFormatVersion: 2
+guid: a8a905f651b05d440bd4eb3d4d01ef10
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: _control
+  - first:
+      1: 100002
+    second: _control 1
+  - first:
+      1: 100004
+    second: _control 2
+  - first:
+      1: 100006
+    second: _control 3
+  - first:
+      1: 100008
+    second: _control 4
+  - first:
+      1: 100010
+    second: _control 5
+  - first:
+      1: 100012
+    second: _control1
+  - first:
+      1: 100014
+    second: _control10
+  - first:
+      1: 100016
+    second: _control11
+  - first:
+      1: 100018
+    second: _control2
+  - first:
+      1: 100020
+    second: _control4
+  - first:
+      1: 100022
+    second: _control5
+  - first:
+      1: 100024
+    second: _control6
+  - first:
+      1: 100026
+    second: _control7
+  - first:
+      1: 100028
+    second: _control8
+  - first:
+      1: 100030
+    second: _control9
+  - first:
+      1: 100032
+    second: Armor1
+  - first:
+      1: 100034
+    second: Armor2
+  - first:
+      1: 100036
+    second: Armor3
+  - first:
+      1: 100038
+    second: Armor355
+  - first:
+      1: 100040
+    second: Armor356
+  - first:
+      1: 100042
+    second: Armor357
+  - first:
+      1: 100044
+    second: Armor358
+  - first:
+      1: 100046
+    second: Armor359
+  - first:
+      1: 100048
+    second: Armor360
+  - first:
+      1: 100050
+    second: Armor361
+  - first:
+      1: 100052
+    second: Armor362
+  - first:
+      1: 100054
+    second: Armor363
+  - first:
+      1: 100056
+    second: Armor364
+  - first:
+      1: 100058
+    second: Armor365
+  - first:
+      1: 100060
+    second: Armor366
+  - first:
+      1: 100062
+    second: Armor367
+  - first:
+      1: 100064
+    second: Armor368
+  - first:
+      1: 100066
+    second: Armor369
+  - first:
+      1: 100068
+    second: Armor370
+  - first:
+      1: 100070
+    second: Armor371
+  - first:
+      1: 100072
+    second: Armor373
+  - first:
+      1: 100074
+    second: Armor374
+  - first:
+      1: 100076
+    second: Armor375_1
+  - first:
+      1: 100078
+    second: Armor376
+  - first:
+      1: 100080
+    second: Armor377
+  - first:
+      1: 100082
+    second: Armor378
+  - first:
+      1: 100084
+    second: Armor379
+  - first:
+      1: 100086
+    second: Armor380
+  - first:
+      1: 100088
+    second: back_hair1
+  - first:
+      1: 100090
+    second: back_hair2
+  - first:
+      1: 100092
+    second: back_hair3
+  - first:
+      1: 100094
+    second: back_hair4
+  - first:
+      1: 100096
+    second: back_knee_left
+  - first:
+      1: 100098
+    second: back_knee_left1
+  - first:
+      1: 100100
+    second: back_knee_right
+  - first:
+      1: 100102
+    second: back_knee_right1
+  - first:
+      1: 100104
+    second: //RootNode
+  - first:
+      1: 100106
+    second: BIG_GLASS
+  - first:
+      1: 100108
+    second: big_mask1
+  - first:
+      1: 100110
+    second: big_mask2
+  - first:
+      1: 100112
+    second: big_mask_control1
+  - first:
+      1: 100114
+    second: Body
+  - first:
+      1: 100116
+    second: Body1_1
+  - first:
+      1: 100118
+    second: CosmoGirl
+  - first:
+      1: 100120
+    second: CosmoGirl1_Ctrl_ChestEndEffector
+  - first:
+      1: 100122
+    second: CosmoGirl1_Ctrl_ChestOriginEffector
+  - first:
+      1: 100124
+    second: CosmoGirl1_Ctrl_Head
+  - first:
+      1: 100126
+    second: CosmoGirl1_Ctrl_HeadEffector
+  - first:
+      1: 100128
+    second: CosmoGirl1_Ctrl_Hips
+  - first:
+      1: 100130
+    second: CosmoGirl1_Ctrl_HipsEffector
+  - first:
+      1: 100132
+    second: CosmoGirl1_Ctrl_LeftAnkleEffector
+  - first:
+      1: 100134
+    second: CosmoGirl1_Ctrl_LeftArm
+  - first:
+      1: 100136
+    second: CosmoGirl1_Ctrl_LeftElbowEffector
+  - first:
+      1: 100138
+    second: CosmoGirl1_Ctrl_LeftFoot
+  - first:
+      1: 100140
+    second: CosmoGirl1_Ctrl_LeftFootEffector
+  - first:
+      1: 100142
+    second: CosmoGirl1_Ctrl_LeftForeArm
+  - first:
+      1: 100144
+    second: CosmoGirl1_Ctrl_LeftHand
+  - first:
+      1: 100146
+    second: CosmoGirl1_Ctrl_LeftHandIndex1
+  - first:
+      1: 100148
+    second: CosmoGirl1_Ctrl_LeftHandIndex2
+  - first:
+      1: 100150
+    second: CosmoGirl1_Ctrl_LeftHandIndex3
+  - first:
+      1: 100152
+    second: CosmoGirl1_Ctrl_LeftHandIndex4
+  - first:
+      1: 100154
+    second: CosmoGirl1_Ctrl_LeftHandIndexEffector
+  - first:
+      1: 100156
+    second: CosmoGirl1_Ctrl_LeftHandMiddle1
+  - first:
+      1: 100158
+    second: CosmoGirl1_Ctrl_LeftHandMiddle2
+  - first:
+      1: 100160
+    second: CosmoGirl1_Ctrl_LeftHandMiddle3
+  - first:
+      1: 100162
+    second: CosmoGirl1_Ctrl_LeftHandMiddle4
+  - first:
+      1: 100164
+    second: CosmoGirl1_Ctrl_LeftHandMiddleEffector
+  - first:
+      1: 100166
+    second: CosmoGirl1_Ctrl_LeftHandPinky1
+  - first:
+      1: 100168
+    second: CosmoGirl1_Ctrl_LeftHandPinky2
+  - first:
+      1: 100170
+    second: CosmoGirl1_Ctrl_LeftHandPinky3
+  - first:
+      1: 100172
+    second: CosmoGirl1_Ctrl_LeftHandPinky4
+  - first:
+      1: 100174
+    second: CosmoGirl1_Ctrl_LeftHandPinkyEffector
+  - first:
+      1: 100176
+    second: CosmoGirl1_Ctrl_LeftHandRing1
+  - first:
+      1: 100178
+    second: CosmoGirl1_Ctrl_LeftHandRing2
+  - first:
+      1: 100180
+    second: CosmoGirl1_Ctrl_LeftHandRing3
+  - first:
+      1: 100182
+    second: CosmoGirl1_Ctrl_LeftHandRing4
+  - first:
+      1: 100184
+    second: CosmoGirl1_Ctrl_LeftHandRingEffector
+  - first:
+      1: 100186
+    second: CosmoGirl1_Ctrl_LeftHandThumb1
+  - first:
+      1: 100188
+    second: CosmoGirl1_Ctrl_LeftHandThumb2
+  - first:
+      1: 100190
+    second: CosmoGirl1_Ctrl_LeftHandThumb3
+  - first:
+      1: 100192
+    second: CosmoGirl1_Ctrl_LeftHandThumb4
+  - first:
+      1: 100194
+    second: CosmoGirl1_Ctrl_LeftHandThumbEffector
+  - first:
+      1: 100196
+    second: CosmoGirl1_Ctrl_LeftHipEffector
+  - first:
+      1: 100198
+    second: CosmoGirl1_Ctrl_LeftKneeEffector
+  - first:
+      1: 100200
+    second: CosmoGirl1_Ctrl_LeftLeg
+  - first:
+      1: 100202
+    second: CosmoGirl1_Ctrl_LeftShoulder
+  - first:
+      1: 100204
+    second: CosmoGirl1_Ctrl_LeftShoulderEffector
+  - first:
+      1: 100206
+    second: CosmoGirl1_Ctrl_LeftToeBase
+  - first:
+      1: 100208
+    second: CosmoGirl1_Ctrl_LeftUpLeg
+  - first:
+      1: 100210
+    second: CosmoGirl1_Ctrl_LeftWristEffector
+  - first:
+      1: 100212
+    second: CosmoGirl1_Ctrl_Neck
+  - first:
+      1: 100214
+    second: CosmoGirl1_Ctrl_Reference
+  - first:
+      1: 100216
+    second: CosmoGirl1_Ctrl_RightAnkleEffector
+  - first:
+      1: 100218
+    second: CosmoGirl1_Ctrl_RightArm
+  - first:
+      1: 100220
+    second: CosmoGirl1_Ctrl_RightElbowEffector
+  - first:
+      1: 100222
+    second: CosmoGirl1_Ctrl_RightFoot
+  - first:
+      1: 100224
+    second: CosmoGirl1_Ctrl_RightFootEffector
+  - first:
+      1: 100226
+    second: CosmoGirl1_Ctrl_RightForeArm
+  - first:
+      1: 100228
+    second: CosmoGirl1_Ctrl_RightHand
+  - first:
+      1: 100230
+    second: CosmoGirl1_Ctrl_RightHandIndex1
+  - first:
+      1: 100232
+    second: CosmoGirl1_Ctrl_RightHandIndex2
+  - first:
+      1: 100234
+    second: CosmoGirl1_Ctrl_RightHandIndex3
+  - first:
+      1: 100236
+    second: CosmoGirl1_Ctrl_RightHandIndex4
+  - first:
+      1: 100238
+    second: CosmoGirl1_Ctrl_RightHandIndexEffector
+  - first:
+      1: 100240
+    second: CosmoGirl1_Ctrl_RightHandMiddle1
+  - first:
+      1: 100242
+    second: CosmoGirl1_Ctrl_RightHandMiddle2
+  - first:
+      1: 100244
+    second: CosmoGirl1_Ctrl_RightHandMiddle3
+  - first:
+      1: 100246
+    second: CosmoGirl1_Ctrl_RightHandMiddle4
+  - first:
+      1: 100248
+    second: CosmoGirl1_Ctrl_RightHandMiddleEffector
+  - first:
+      1: 100250
+    second: CosmoGirl1_Ctrl_RightHandPinky1
+  - first:
+      1: 100252
+    second: CosmoGirl1_Ctrl_RightHandPinky2
+  - first:
+      1: 100254
+    second: CosmoGirl1_Ctrl_RightHandPinky3
+  - first:
+      1: 100256
+    second: CosmoGirl1_Ctrl_RightHandPinky4
+  - first:
+      1: 100258
+    second: CosmoGirl1_Ctrl_RightHandPinkyEffector
+  - first:
+      1: 100260
+    second: CosmoGirl1_Ctrl_RightHandRing1
+  - first:
+      1: 100262
+    second: CosmoGirl1_Ctrl_RightHandRing2
+  - first:
+      1: 100264
+    second: CosmoGirl1_Ctrl_RightHandRing3
+  - first:
+      1: 100266
+    second: CosmoGirl1_Ctrl_RightHandRing4
+  - first:
+      1: 100268
+    second: CosmoGirl1_Ctrl_RightHandRingEffector
+  - first:
+      1: 100270
+    second: CosmoGirl1_Ctrl_RightHandThumb1
+  - first:
+      1: 100272
+    second: CosmoGirl1_Ctrl_RightHandThumb2
+  - first:
+      1: 100274
+    second: CosmoGirl1_Ctrl_RightHandThumb3
+  - first:
+      1: 100276
+    second: CosmoGirl1_Ctrl_RightHandThumb4
+  - first:
+      1: 100278
+    second: CosmoGirl1_Ctrl_RightHandThumbEffector
+  - first:
+      1: 100280
+    second: CosmoGirl1_Ctrl_RightHipEffector
+  - first:
+      1: 100282
+    second: CosmoGirl1_Ctrl_RightKneeEffector
+  - first:
+      1: 100284
+    second: CosmoGirl1_Ctrl_RightLeg
+  - first:
+      1: 100286
+    second: CosmoGirl1_Ctrl_RightShoulder
+  - first:
+      1: 100288
+    second: CosmoGirl1_Ctrl_RightShoulderEffector
+  - first:
+      1: 100290
+    second: CosmoGirl1_Ctrl_RightToeBase
+  - first:
+      1: 100292
+    second: CosmoGirl1_Ctrl_RightUpLeg
+  - first:
+      1: 100294
+    second: CosmoGirl1_Ctrl_RightWristEffector
+  - first:
+      1: 100296
+    second: CosmoGirl1_Ctrl_Spine
+  - first:
+      1: 100298
+    second: CosmoGirl1_Ctrl_Spine1
+  - first:
+      1: 100300
+    second: CosmoGirl1_Ctrl_Spine2
+  - first:
+      1: 100302
+    second: CosmoGirl1_Head
+  - first:
+      1: 100304
+    second: CosmoGirl1_Hips
+  - first:
+      1: 100306
+    second: CosmoGirl1_LeftArm
+  - first:
+      1: 100308
+    second: CosmoGirl1_LeftFoot
+  - first:
+      1: 100310
+    second: CosmoGirl1_LeftForeArm
+  - first:
+      1: 100312
+    second: CosmoGirl1_LeftHand
+  - first:
+      1: 100314
+    second: CosmoGirl1_LeftHandIndex1
+  - first:
+      1: 100316
+    second: CosmoGirl1_LeftHandIndex2
+  - first:
+      1: 100318
+    second: CosmoGirl1_LeftHandIndex3
+  - first:
+      1: 100320
+    second: CosmoGirl1_LeftHandIndex4
+  - first:
+      1: 100322
+    second: CosmoGirl1_LeftHandMiddle1
+  - first:
+      1: 100324
+    second: CosmoGirl1_LeftHandMiddle2
+  - first:
+      1: 100326
+    second: CosmoGirl1_LeftHandMiddle3
+  - first:
+      1: 100328
+    second: CosmoGirl1_LeftHandMiddle4
+  - first:
+      1: 100330
+    second: CosmoGirl1_LeftHandPinky1
+  - first:
+      1: 100332
+    second: CosmoGirl1_LeftHandPinky2
+  - first:
+      1: 100334
+    second: CosmoGirl1_LeftHandPinky3
+  - first:
+      1: 100336
+    second: CosmoGirl1_LeftHandPinky4
+  - first:
+      1: 100338
+    second: CosmoGirl1_LeftHandRing1
+  - first:
+      1: 100340
+    second: CosmoGirl1_LeftHandRing2
+  - first:
+      1: 100342
+    second: CosmoGirl1_LeftHandRing3
+  - first:
+      1: 100344
+    second: CosmoGirl1_LeftHandRing4
+  - first:
+      1: 100346
+    second: CosmoGirl1_LeftHandThumb1
+  - first:
+      1: 100348
+    second: CosmoGirl1_LeftHandThumb2
+  - first:
+      1: 100350
+    second: CosmoGirl1_LeftHandThumb3
+  - first:
+      1: 100352
+    second: CosmoGirl1_LeftHandThumb4
+  - first:
+      1: 100354
+    second: CosmoGirl1_LeftLeg
+  - first:
+      1: 100356
+    second: CosmoGirl1_LeftShoulder
+  - first:
+      1: 100358
+    second: CosmoGirl1_LeftToeBase
+  - first:
+      1: 100360
+    second: CosmoGirl1_LeftUpLeg
+  - first:
+      1: 100362
+    second: CosmoGirl1_Neck
+  - first:
+      1: 100364
+    second: CosmoGirl1_Reference
+  - first:
+      1: 100366
+    second: CosmoGirl1_RightArm
+  - first:
+      1: 100368
+    second: CosmoGirl1_RightFoot
+  - first:
+      1: 100370
+    second: CosmoGirl1_RightForeArm
+  - first:
+      1: 100372
+    second: CosmoGirl1_RightHand
+  - first:
+      1: 100374
+    second: CosmoGirl1_RightHandIndex1
+  - first:
+      1: 100376
+    second: CosmoGirl1_RightHandIndex2
+  - first:
+      1: 100378
+    second: CosmoGirl1_RightHandIndex3
+  - first:
+      1: 100380
+    second: CosmoGirl1_RightHandIndex4
+  - first:
+      1: 100382
+    second: CosmoGirl1_RightHandMiddle1
+  - first:
+      1: 100384
+    second: CosmoGirl1_RightHandMiddle2
+  - first:
+      1: 100386
+    second: CosmoGirl1_RightHandMiddle3
+  - first:
+      1: 100388
+    second: CosmoGirl1_RightHandMiddle4
+  - first:
+      1: 100390
+    second: CosmoGirl1_RightHandPinky1
+  - first:
+      1: 100392
+    second: CosmoGirl1_RightHandPinky2
+  - first:
+      1: 100394
+    second: CosmoGirl1_RightHandPinky3
+  - first:
+      1: 100396
+    second: CosmoGirl1_RightHandPinky4
+  - first:
+      1: 100398
+    second: CosmoGirl1_RightHandRing1
+  - first:
+      1: 100400
+    second: CosmoGirl1_RightHandRing2
+  - first:
+      1: 100402
+    second: CosmoGirl1_RightHandRing3
+  - first:
+      1: 100404
+    second: CosmoGirl1_RightHandRing4
+  - first:
+      1: 100406
+    second: CosmoGirl1_RightHandThumb1
+  - first:
+      1: 100408
+    second: CosmoGirl1_RightHandThumb2
+  - first:
+      1: 100410
+    second: CosmoGirl1_RightHandThumb3
+  - first:
+      1: 100412
+    second: CosmoGirl1_RightHandThumb4
+  - first:
+      1: 100414
+    second: CosmoGirl1_RightLeg
+  - first:
+      1: 100416
+    second: CosmoGirl1_RightShoulder
+  - first:
+      1: 100418
+    second: CosmoGirl1_RightToeBase
+  - first:
+      1: 100420
+    second: CosmoGirl1_RightUpLeg
+  - first:
+      1: 100422
+    second: CosmoGirl1_Spine
+  - first:
+      1: 100424
+    second: CosmoGirl1_Spine1
+  - first:
+      1: 100426
+    second: CosmoGirl1_Spine2
+  - first:
+      1: 100428
+    second: drone
+  - first:
+      1: 100430
+    second: drone2
+  - first:
+      1: 100432
+    second: drone3
+  - first:
+      1: 100434
+    second: drone4
+  - first:
+      1: 100436
+    second: drone5
+  - first:
+      1: 100438
+    second: drone6
+  - first:
+      1: 100440
+    second: eyelashes1
+  - first:
+      1: 100442
+    second: eyelid_left
+  - first:
+      1: 100444
+    second: eyelid_left1
+  - first:
+      1: 100446
+    second: eyelid_right
+  - first:
+      1: 100448
+    second: eyelid_right1
+  - first:
+      1: 100450
+    second: eyes
+  - first:
+      1: 100452
+    second: front_hair1
+  - first:
+      1: 100454
+    second: front_hair2
+  - first:
+      1: 100456
+    second: front_hair3
+  - first:
+      1: 100458
+    second: hair
+  - first:
+      1: 100460
+    second: hair1
+  - first:
+      1: 100462
+    second: Head
+  - first:
+      1: 100464
+    second: head
+  - first:
+      1: 100466
+    second: helm
+  - first:
+      1: 100468
+    second: helm1
+  - first:
+      1: 100470
+    second: helm_controller1
+  - first:
+      1: 100472
+    second: knee_left
+  - first:
+      1: 100474
+    second: knee_left1
+  - first:
+      1: 100476
+    second: knee_right
+  - first:
+      1: 100478
+    second: knee_right1
+  - first:
+      1: 100480
+    second: left_eye
+  - first:
+      1: 100482
+    second: left_eye1
+  - first:
+      1: 100484
+    second: left_neck_hydraulics
+  - first:
+      1: 100486
+    second: left_neck_hydraulics1
+  - first:
+      1: 100488
+    second: left_neck_hydraulics2
+  - first:
+      1: 100490
+    second: left_up_neck_hydraulics
+  - first:
+      1: 100492
+    second: left_up_neck_hydraulics1
+  - first:
+      1: 100494
+    second: left_up_neck_hydraulics2
+  - first:
+      1: 100496
+    second: lip_left
+  - first:
+      1: 100498
+    second: lip_left1
+  - first:
+      1: 100500
+    second: lip_right
+  - first:
+      1: 100502
+    second: lip_right1
+  - first:
+      1: 100504
+    second: right_back_hair
+  - first:
+      1: 100506
+    second: right_back_hair1
+  - first:
+      1: 100508
+    second: right_back_hair2
+  - first:
+      1: 100510
+    second: right_back_hair3
+  - first:
+      1: 100512
+    second: right_back_hair4
+  - first:
+      1: 100514
+    second: right_back_hair5
+  - first:
+      1: 100516
+    second: right_back_hair6
+  - first:
+      1: 100518
+    second: right_back_hair7
+  - first:
+      1: 100520
+    second: right_eye
+  - first:
+      1: 100522
+    second: right_eye1
+  - first:
+      1: 100524
+    second: right_front_hair
+  - first:
+      1: 100526
+    second: right_front_hair1
+  - first:
+      1: 100528
+    second: right_front_hair2
+  - first:
+      1: 100530
+    second: right_front_hair3
+  - first:
+      1: 100532
+    second: right_front_hair4
+  - first:
+      1: 100534
+    second: right_front_hair5
+  - first:
+      1: 100536
+    second: right_neck_hydraulics5
+  - first:
+      1: 100538
+    second: right_neck_hydraulics5_3
+  - first:
+      1: 100540
+    second: right_neck_hydraulics5_4
+  - first:
+      1: 100542
+    second: right_up_neck_hydraulics
+  - first:
+      1: 100544
+    second: right_up_neck_hydraulics1
+  - first:
+      1: 100546
+    second: right_up_neck_hydraulics2
+  - first:
+      1: 100548
+    second: shield1
+  - first:
+      1: 100550
+    second: SMALL_GLASS
+  - first:
+      1: 100552
+    second: small_mask1
+  - first:
+      1: 100554
+    second: small_mask1_1
+  - first:
+      1: 100556
+    second: small_mask2
+  - first:
+      1: 100558
+    second: small_mask_controll1
+  - first:
+      1: 100560
+    second: weapon
+  - first:
+      1: 100562
+    second: weapon 1
+  - first:
+      1: 100564
+    second: weapon_hurch
+  - first:
+      1: 100566
+    second: weapon_hurch1
+  - first:
+      1: 100568
+    second: weapon_hurch2
+  - first:
+      1: 100570
+    second: weapon_lazer1
+  - first:
+      1: 100572
+    second: weapon_lazer2
+  - first:
+      1: 100574
+    second: weapons_courses
+  - first:
+      4: 400000
+    second: _control
+  - first:
+      4: 400002
+    second: _control 1
+  - first:
+      4: 400004
+    second: _control 2
+  - first:
+      4: 400006
+    second: _control 3
+  - first:
+      4: 400008
+    second: _control 4
+  - first:
+      4: 400010
+    second: _control 5
+  - first:
+      4: 400012
+    second: _control1
+  - first:
+      4: 400014
+    second: _control10
+  - first:
+      4: 400016
+    second: _control11
+  - first:
+      4: 400018
+    second: _control2
+  - first:
+      4: 400020
+    second: _control4
+  - first:
+      4: 400022
+    second: _control5
+  - first:
+      4: 400024
+    second: _control6
+  - first:
+      4: 400026
+    second: _control7
+  - first:
+      4: 400028
+    second: _control8
+  - first:
+      4: 400030
+    second: _control9
+  - first:
+      4: 400032
+    second: Armor1
+  - first:
+      4: 400034
+    second: Armor2
+  - first:
+      4: 400036
+    second: Armor3
+  - first:
+      4: 400038
+    second: Armor355
+  - first:
+      4: 400040
+    second: Armor356
+  - first:
+      4: 400042
+    second: Armor357
+  - first:
+      4: 400044
+    second: Armor358
+  - first:
+      4: 400046
+    second: Armor359
+  - first:
+      4: 400048
+    second: Armor360
+  - first:
+      4: 400050
+    second: Armor361
+  - first:
+      4: 400052
+    second: Armor362
+  - first:
+      4: 400054
+    second: Armor363
+  - first:
+      4: 400056
+    second: Armor364
+  - first:
+      4: 400058
+    second: Armor365
+  - first:
+      4: 400060
+    second: Armor366
+  - first:
+      4: 400062
+    second: Armor367
+  - first:
+      4: 400064
+    second: Armor368
+  - first:
+      4: 400066
+    second: Armor369
+  - first:
+      4: 400068
+    second: Armor370
+  - first:
+      4: 400070
+    second: Armor371
+  - first:
+      4: 400072
+    second: Armor373
+  - first:
+      4: 400074
+    second: Armor374
+  - first:
+      4: 400076
+    second: Armor375_1
+  - first:
+      4: 400078
+    second: Armor376
+  - first:
+      4: 400080
+    second: Armor377
+  - first:
+      4: 400082
+    second: Armor378
+  - first:
+      4: 400084
+    second: Armor379
+  - first:
+      4: 400086
+    second: Armor380
+  - first:
+      4: 400088
+    second: back_hair1
+  - first:
+      4: 400090
+    second: back_hair2
+  - first:
+      4: 400092
+    second: back_hair3
+  - first:
+      4: 400094
+    second: back_hair4
+  - first:
+      4: 400096
+    second: back_knee_left
+  - first:
+      4: 400098
+    second: back_knee_left1
+  - first:
+      4: 400100
+    second: back_knee_right
+  - first:
+      4: 400102
+    second: back_knee_right1
+  - first:
+      4: 400104
+    second: //RootNode
+  - first:
+      4: 400106
+    second: BIG_GLASS
+  - first:
+      4: 400108
+    second: big_mask1
+  - first:
+      4: 400110
+    second: big_mask2
+  - first:
+      4: 400112
+    second: big_mask_control1
+  - first:
+      4: 400114
+    second: Body
+  - first:
+      4: 400116
+    second: Body1_1
+  - first:
+      4: 400118
+    second: CosmoGirl
+  - first:
+      4: 400120
+    second: CosmoGirl1_Ctrl_ChestEndEffector
+  - first:
+      4: 400122
+    second: CosmoGirl1_Ctrl_ChestOriginEffector
+  - first:
+      4: 400124
+    second: CosmoGirl1_Ctrl_Head
+  - first:
+      4: 400126
+    second: CosmoGirl1_Ctrl_HeadEffector
+  - first:
+      4: 400128
+    second: CosmoGirl1_Ctrl_Hips
+  - first:
+      4: 400130
+    second: CosmoGirl1_Ctrl_HipsEffector
+  - first:
+      4: 400132
+    second: CosmoGirl1_Ctrl_LeftAnkleEffector
+  - first:
+      4: 400134
+    second: CosmoGirl1_Ctrl_LeftArm
+  - first:
+      4: 400136
+    second: CosmoGirl1_Ctrl_LeftElbowEffector
+  - first:
+      4: 400138
+    second: CosmoGirl1_Ctrl_LeftFoot
+  - first:
+      4: 400140
+    second: CosmoGirl1_Ctrl_LeftFootEffector
+  - first:
+      4: 400142
+    second: CosmoGirl1_Ctrl_LeftForeArm
+  - first:
+      4: 400144
+    second: CosmoGirl1_Ctrl_LeftHand
+  - first:
+      4: 400146
+    second: CosmoGirl1_Ctrl_LeftHandIndex1
+  - first:
+      4: 400148
+    second: CosmoGirl1_Ctrl_LeftHandIndex2
+  - first:
+      4: 400150
+    second: CosmoGirl1_Ctrl_LeftHandIndex3
+  - first:
+      4: 400152
+    second: CosmoGirl1_Ctrl_LeftHandIndex4
+  - first:
+      4: 400154
+    second: CosmoGirl1_Ctrl_LeftHandIndexEffector
+  - first:
+      4: 400156
+    second: CosmoGirl1_Ctrl_LeftHandMiddle1
+  - first:
+      4: 400158
+    second: CosmoGirl1_Ctrl_LeftHandMiddle2
+  - first:
+      4: 400160
+    second: CosmoGirl1_Ctrl_LeftHandMiddle3
+  - first:
+      4: 400162
+    second: CosmoGirl1_Ctrl_LeftHandMiddle4
+  - first:
+      4: 400164
+    second: CosmoGirl1_Ctrl_LeftHandMiddleEffector
+  - first:
+      4: 400166
+    second: CosmoGirl1_Ctrl_LeftHandPinky1
+  - first:
+      4: 400168
+    second: CosmoGirl1_Ctrl_LeftHandPinky2
+  - first:
+      4: 400170
+    second: CosmoGirl1_Ctrl_LeftHandPinky3
+  - first:
+      4: 400172
+    second: CosmoGirl1_Ctrl_LeftHandPinky4
+  - first:
+      4: 400174
+    second: CosmoGirl1_Ctrl_LeftHandPinkyEffector
+  - first:
+      4: 400176
+    second: CosmoGirl1_Ctrl_LeftHandRing1
+  - first:
+      4: 400178
+    second: CosmoGirl1_Ctrl_LeftHandRing2
+  - first:
+      4: 400180
+    second: CosmoGirl1_Ctrl_LeftHandRing3
+  - first:
+      4: 400182
+    second: CosmoGirl1_Ctrl_LeftHandRing4
+  - first:
+      4: 400184
+    second: CosmoGirl1_Ctrl_LeftHandRingEffector
+  - first:
+      4: 400186
+    second: CosmoGirl1_Ctrl_LeftHandThumb1
+  - first:
+      4: 400188
+    second: CosmoGirl1_Ctrl_LeftHandThumb2
+  - first:
+      4: 400190
+    second: CosmoGirl1_Ctrl_LeftHandThumb3
+  - first:
+      4: 400192
+    second: CosmoGirl1_Ctrl_LeftHandThumb4
+  - first:
+      4: 400194
+    second: CosmoGirl1_Ctrl_LeftHandThumbEffector
+  - first:
+      4: 400196
+    second: CosmoGirl1_Ctrl_LeftHipEffector
+  - first:
+      4: 400198
+    second: CosmoGirl1_Ctrl_LeftKneeEffector
+  - first:
+      4: 400200
+    second: CosmoGirl1_Ctrl_LeftLeg
+  - first:
+      4: 400202
+    second: CosmoGirl1_Ctrl_LeftShoulder
+  - first:
+      4: 400204
+    second: CosmoGirl1_Ctrl_LeftShoulderEffector
+  - first:
+      4: 400206
+    second: CosmoGirl1_Ctrl_LeftToeBase
+  - first:
+      4: 400208
+    second: CosmoGirl1_Ctrl_LeftUpLeg
+  - first:
+      4: 400210
+    second: CosmoGirl1_Ctrl_LeftWristEffector
+  - first:
+      4: 400212
+    second: CosmoGirl1_Ctrl_Neck
+  - first:
+      4: 400214
+    second: CosmoGirl1_Ctrl_Reference
+  - first:
+      4: 400216
+    second: CosmoGirl1_Ctrl_RightAnkleEffector
+  - first:
+      4: 400218
+    second: CosmoGirl1_Ctrl_RightArm
+  - first:
+      4: 400220
+    second: CosmoGirl1_Ctrl_RightElbowEffector
+  - first:
+      4: 400222
+    second: CosmoGirl1_Ctrl_RightFoot
+  - first:
+      4: 400224
+    second: CosmoGirl1_Ctrl_RightFootEffector
+  - first:
+      4: 400226
+    second: CosmoGirl1_Ctrl_RightForeArm
+  - first:
+      4: 400228
+    second: CosmoGirl1_Ctrl_RightHand
+  - first:
+      4: 400230
+    second: CosmoGirl1_Ctrl_RightHandIndex1
+  - first:
+      4: 400232
+    second: CosmoGirl1_Ctrl_RightHandIndex2
+  - first:
+      4: 400234
+    second: CosmoGirl1_Ctrl_RightHandIndex3
+  - first:
+      4: 400236
+    second: CosmoGirl1_Ctrl_RightHandIndex4
+  - first:
+      4: 400238
+    second: CosmoGirl1_Ctrl_RightHandIndexEffector
+  - first:
+      4: 400240
+    second: CosmoGirl1_Ctrl_RightHandMiddle1
+  - first:
+      4: 400242
+    second: CosmoGirl1_Ctrl_RightHandMiddle2
+  - first:
+      4: 400244
+    second: CosmoGirl1_Ctrl_RightHandMiddle3
+  - first:
+      4: 400246
+    second: CosmoGirl1_Ctrl_RightHandMiddle4
+  - first:
+      4: 400248
+    second: CosmoGirl1_Ctrl_RightHandMiddleEffector
+  - first:
+      4: 400250
+    second: CosmoGirl1_Ctrl_RightHandPinky1
+  - first:
+      4: 400252
+    second: CosmoGirl1_Ctrl_RightHandPinky2
+  - first:
+      4: 400254
+    second: CosmoGirl1_Ctrl_RightHandPinky3
+  - first:
+      4: 400256
+    second: CosmoGirl1_Ctrl_RightHandPinky4
+  - first:
+      4: 400258
+    second: CosmoGirl1_Ctrl_RightHandPinkyEffector
+  - first:
+      4: 400260
+    second: CosmoGirl1_Ctrl_RightHandRing1
+  - first:
+      4: 400262
+    second: CosmoGirl1_Ctrl_RightHandRing2
+  - first:
+      4: 400264
+    second: CosmoGirl1_Ctrl_RightHandRing3
+  - first:
+      4: 400266
+    second: CosmoGirl1_Ctrl_RightHandRing4
+  - first:
+      4: 400268
+    second: CosmoGirl1_Ctrl_RightHandRingEffector
+  - first:
+      4: 400270
+    second: CosmoGirl1_Ctrl_RightHandThumb1
+  - first:
+      4: 400272
+    second: CosmoGirl1_Ctrl_RightHandThumb2
+  - first:
+      4: 400274
+    second: CosmoGirl1_Ctrl_RightHandThumb3
+  - first:
+      4: 400276
+    second: CosmoGirl1_Ctrl_RightHandThumb4
+  - first:
+      4: 400278
+    second: CosmoGirl1_Ctrl_RightHandThumbEffector
+  - first:
+      4: 400280
+    second: CosmoGirl1_Ctrl_RightHipEffector
+  - first:
+      4: 400282
+    second: CosmoGirl1_Ctrl_RightKneeEffector
+  - first:
+      4: 400284
+    second: CosmoGirl1_Ctrl_RightLeg
+  - first:
+      4: 400286
+    second: CosmoGirl1_Ctrl_RightShoulder
+  - first:
+      4: 400288
+    second: CosmoGirl1_Ctrl_RightShoulderEffector
+  - first:
+      4: 400290
+    second: CosmoGirl1_Ctrl_RightToeBase
+  - first:
+      4: 400292
+    second: CosmoGirl1_Ctrl_RightUpLeg
+  - first:
+      4: 400294
+    second: CosmoGirl1_Ctrl_RightWristEffector
+  - first:
+      4: 400296
+    second: CosmoGirl1_Ctrl_Spine
+  - first:
+      4: 400298
+    second: CosmoGirl1_Ctrl_Spine1
+  - first:
+      4: 400300
+    second: CosmoGirl1_Ctrl_Spine2
+  - first:
+      4: 400302
+    second: CosmoGirl1_Head
+  - first:
+      4: 400304
+    second: CosmoGirl1_Hips
+  - first:
+      4: 400306
+    second: CosmoGirl1_LeftArm
+  - first:
+      4: 400308
+    second: CosmoGirl1_LeftFoot
+  - first:
+      4: 400310
+    second: CosmoGirl1_LeftForeArm
+  - first:
+      4: 400312
+    second: CosmoGirl1_LeftHand
+  - first:
+      4: 400314
+    second: CosmoGirl1_LeftHandIndex1
+  - first:
+      4: 400316
+    second: CosmoGirl1_LeftHandIndex2
+  - first:
+      4: 400318
+    second: CosmoGirl1_LeftHandIndex3
+  - first:
+      4: 400320
+    second: CosmoGirl1_LeftHandIndex4
+  - first:
+      4: 400322
+    second: CosmoGirl1_LeftHandMiddle1
+  - first:
+      4: 400324
+    second: CosmoGirl1_LeftHandMiddle2
+  - first:
+      4: 400326
+    second: CosmoGirl1_LeftHandMiddle3
+  - first:
+      4: 400328
+    second: CosmoGirl1_LeftHandMiddle4
+  - first:
+      4: 400330
+    second: CosmoGirl1_LeftHandPinky1
+  - first:
+      4: 400332
+    second: CosmoGirl1_LeftHandPinky2
+  - first:
+      4: 400334
+    second: CosmoGirl1_LeftHandPinky3
+  - first:
+      4: 400336
+    second: CosmoGirl1_LeftHandPinky4
+  - first:
+      4: 400338
+    second: CosmoGirl1_LeftHandRing1
+  - first:
+      4: 400340
+    second: CosmoGirl1_LeftHandRing2
+  - first:
+      4: 400342
+    second: CosmoGirl1_LeftHandRing3
+  - first:
+      4: 400344
+    second: CosmoGirl1_LeftHandRing4
+  - first:
+      4: 400346
+    second: CosmoGirl1_LeftHandThumb1
+  - first:
+      4: 400348
+    second: CosmoGirl1_LeftHandThumb2
+  - first:
+      4: 400350
+    second: CosmoGirl1_LeftHandThumb3
+  - first:
+      4: 400352
+    second: CosmoGirl1_LeftHandThumb4
+  - first:
+      4: 400354
+    second: CosmoGirl1_LeftLeg
+  - first:
+      4: 400356
+    second: CosmoGirl1_LeftShoulder
+  - first:
+      4: 400358
+    second: CosmoGirl1_LeftToeBase
+  - first:
+      4: 400360
+    second: CosmoGirl1_LeftUpLeg
+  - first:
+      4: 400362
+    second: CosmoGirl1_Neck
+  - first:
+      4: 400364
+    second: CosmoGirl1_Reference
+  - first:
+      4: 400366
+    second: CosmoGirl1_RightArm
+  - first:
+      4: 400368
+    second: CosmoGirl1_RightFoot
+  - first:
+      4: 400370
+    second: CosmoGirl1_RightForeArm
+  - first:
+      4: 400372
+    second: CosmoGirl1_RightHand
+  - first:
+      4: 400374
+    second: CosmoGirl1_RightHandIndex1
+  - first:
+      4: 400376
+    second: CosmoGirl1_RightHandIndex2
+  - first:
+      4: 400378
+    second: CosmoGirl1_RightHandIndex3
+  - first:
+      4: 400380
+    second: CosmoGirl1_RightHandIndex4
+  - first:
+      4: 400382
+    second: CosmoGirl1_RightHandMiddle1
+  - first:
+      4: 400384
+    second: CosmoGirl1_RightHandMiddle2
+  - first:
+      4: 400386
+    second: CosmoGirl1_RightHandMiddle3
+  - first:
+      4: 400388
+    second: CosmoGirl1_RightHandMiddle4
+  - first:
+      4: 400390
+    second: CosmoGirl1_RightHandPinky1
+  - first:
+      4: 400392
+    second: CosmoGirl1_RightHandPinky2
+  - first:
+      4: 400394
+    second: CosmoGirl1_RightHandPinky3
+  - first:
+      4: 400396
+    second: CosmoGirl1_RightHandPinky4
+  - first:
+      4: 400398
+    second: CosmoGirl1_RightHandRing1
+  - first:
+      4: 400400
+    second: CosmoGirl1_RightHandRing2
+  - first:
+      4: 400402
+    second: CosmoGirl1_RightHandRing3
+  - first:
+      4: 400404
+    second: CosmoGirl1_RightHandRing4
+  - first:
+      4: 400406
+    second: CosmoGirl1_RightHandThumb1
+  - first:
+      4: 400408
+    second: CosmoGirl1_RightHandThumb2
+  - first:
+      4: 400410
+    second: CosmoGirl1_RightHandThumb3
+  - first:
+      4: 400412
+    second: CosmoGirl1_RightHandThumb4
+  - first:
+      4: 400414
+    second: CosmoGirl1_RightLeg
+  - first:
+      4: 400416
+    second: CosmoGirl1_RightShoulder
+  - first:
+      4: 400418
+    second: CosmoGirl1_RightToeBase
+  - first:
+      4: 400420
+    second: CosmoGirl1_RightUpLeg
+  - first:
+      4: 400422
+    second: CosmoGirl1_Spine
+  - first:
+      4: 400424
+    second: CosmoGirl1_Spine1
+  - first:
+      4: 400426
+    second: CosmoGirl1_Spine2
+  - first:
+      4: 400428
+    second: drone
+  - first:
+      4: 400430
+    second: drone2
+  - first:
+      4: 400432
+    second: drone3
+  - first:
+      4: 400434
+    second: drone4
+  - first:
+      4: 400436
+    second: drone5
+  - first:
+      4: 400438
+    second: drone6
+  - first:
+      4: 400440
+    second: eyelashes1
+  - first:
+      4: 400442
+    second: eyelid_left
+  - first:
+      4: 400444
+    second: eyelid_left1
+  - first:
+      4: 400446
+    second: eyelid_right
+  - first:
+      4: 400448
+    second: eyelid_right1
+  - first:
+      4: 400450
+    second: eyes
+  - first:
+      4: 400452
+    second: front_hair1
+  - first:
+      4: 400454
+    second: front_hair2
+  - first:
+      4: 400456
+    second: front_hair3
+  - first:
+      4: 400458
+    second: hair
+  - first:
+      4: 400460
+    second: hair1
+  - first:
+      4: 400462
+    second: Head
+  - first:
+      4: 400464
+    second: head
+  - first:
+      4: 400466
+    second: helm
+  - first:
+      4: 400468
+    second: helm1
+  - first:
+      4: 400470
+    second: helm_controller1
+  - first:
+      4: 400472
+    second: knee_left
+  - first:
+      4: 400474
+    second: knee_left1
+  - first:
+      4: 400476
+    second: knee_right
+  - first:
+      4: 400478
+    second: knee_right1
+  - first:
+      4: 400480
+    second: left_eye
+  - first:
+      4: 400482
+    second: left_eye1
+  - first:
+      4: 400484
+    second: left_neck_hydraulics
+  - first:
+      4: 400486
+    second: left_neck_hydraulics1
+  - first:
+      4: 400488
+    second: left_neck_hydraulics2
+  - first:
+      4: 400490
+    second: left_up_neck_hydraulics
+  - first:
+      4: 400492
+    second: left_up_neck_hydraulics1
+  - first:
+      4: 400494
+    second: left_up_neck_hydraulics2
+  - first:
+      4: 400496
+    second: lip_left
+  - first:
+      4: 400498
+    second: lip_left1
+  - first:
+      4: 400500
+    second: lip_right
+  - first:
+      4: 400502
+    second: lip_right1
+  - first:
+      4: 400504
+    second: right_back_hair
+  - first:
+      4: 400506
+    second: right_back_hair1
+  - first:
+      4: 400508
+    second: right_back_hair2
+  - first:
+      4: 400510
+    second: right_back_hair3
+  - first:
+      4: 400512
+    second: right_back_hair4
+  - first:
+      4: 400514
+    second: right_back_hair5
+  - first:
+      4: 400516
+    second: right_back_hair6
+  - first:
+      4: 400518
+    second: right_back_hair7
+  - first:
+      4: 400520
+    second: right_eye
+  - first:
+      4: 400522
+    second: right_eye1
+  - first:
+      4: 400524
+    second: right_front_hair
+  - first:
+      4: 400526
+    second: right_front_hair1
+  - first:
+      4: 400528
+    second: right_front_hair2
+  - first:
+      4: 400530
+    second: right_front_hair3
+  - first:
+      4: 400532
+    second: right_front_hair4
+  - first:
+      4: 400534
+    second: right_front_hair5
+  - first:
+      4: 400536
+    second: right_neck_hydraulics5
+  - first:
+      4: 400538
+    second: right_neck_hydraulics5_3
+  - first:
+      4: 400540
+    second: right_neck_hydraulics5_4
+  - first:
+      4: 400542
+    second: right_up_neck_hydraulics
+  - first:
+      4: 400544
+    second: right_up_neck_hydraulics1
+  - first:
+      4: 400546
+    second: right_up_neck_hydraulics2
+  - first:
+      4: 400548
+    second: shield1
+  - first:
+      4: 400550
+    second: SMALL_GLASS
+  - first:
+      4: 400552
+    second: small_mask1
+  - first:
+      4: 400554
+    second: small_mask1_1
+  - first:
+      4: 400556
+    second: small_mask2
+  - first:
+      4: 400558
+    second: small_mask_controll1
+  - first:
+      4: 400560
+    second: weapon
+  - first:
+      4: 400562
+    second: weapon 1
+  - first:
+      4: 400564
+    second: weapon_hurch
+  - first:
+      4: 400566
+    second: weapon_hurch1
+  - first:
+      4: 400568
+    second: weapon_hurch2
+  - first:
+      4: 400570
+    second: weapon_lazer1
+  - first:
+      4: 400572
+    second: weapon_lazer2
+  - first:
+      4: 400574
+    second: weapons_courses
+  - first:
+      43: 4300000
+    second: hair1
+  - first:
+      43: 4300002
+    second: eyelashes1
+  - first:
+      43: 4300004
+    second: weapon_hurch2
+  - first:
+      43: 4300006
+    second: weapons_courses
+  - first:
+      43: 4300008
+    second: head
+  - first:
+      43: 4300010
+    second: eyes
+  - first:
+      43: 4300012
+    second: SMALL_GLASS
+  - first:
+      43: 4300014
+    second: Armor380
+  - first:
+      43: 4300016
+    second: Armor379
+  - first:
+      43: 4300018
+    second: Armor378
+  - first:
+      43: 4300020
+    second: Armor377
+  - first:
+      43: 4300022
+    second: Armor376
+  - first:
+      43: 4300024
+    second: Armor375_1
+  - first:
+      43: 4300026
+    second: Armor374
+  - first:
+      43: 4300028
+    second: Armor373
+  - first:
+      43: 4300030
+    second: BIG_GLASS
+  - first:
+      43: 4300032
+    second: Armor371
+  - first:
+      43: 4300034
+    second: Armor370
+  - first:
+      43: 4300036
+    second: Armor369
+  - first:
+      43: 4300038
+    second: Armor368
+  - first:
+      43: 4300040
+    second: Armor367
+  - first:
+      43: 4300042
+    second: Armor366
+  - first:
+      43: 4300044
+    second: Armor365
+  - first:
+      43: 4300046
+    second: Armor364
+  - first:
+      43: 4300048
+    second: Armor363
+  - first:
+      43: 4300050
+    second: Armor362
+  - first:
+      43: 4300052
+    second: Armor361
+  - first:
+      43: 4300054
+    second: Armor360
+  - first:
+      43: 4300056
+    second: Armor359
+  - first:
+      43: 4300058
+    second: Armor358
+  - first:
+      43: 4300060
+    second: Armor357
+  - first:
+      43: 4300062
+    second: Armor356
+  - first:
+      43: 4300064
+    second: Armor355
+  - first:
+      43: 4300066
+    second: Armor3
+  - first:
+      43: 4300068
+    second: Armor2
+  - first:
+      43: 4300070
+    second: Body1_1
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Armor2
+  - first:
+      137: 13700002
+    second: Armor3
+  - first:
+      137: 13700004
+    second: Armor355
+  - first:
+      137: 13700006
+    second: Armor356
+  - first:
+      137: 13700008
+    second: Armor357
+  - first:
+      137: 13700010
+    second: Armor358
+  - first:
+      137: 13700012
+    second: Armor359
+  - first:
+      137: 13700014
+    second: Armor360
+  - first:
+      137: 13700016
+    second: Armor361
+  - first:
+      137: 13700018
+    second: Armor362
+  - first:
+      137: 13700020
+    second: Armor363
+  - first:
+      137: 13700022
+    second: Armor364
+  - first:
+      137: 13700024
+    second: Armor365
+  - first:
+      137: 13700026
+    second: Armor366
+  - first:
+      137: 13700028
+    second: Armor367
+  - first:
+      137: 13700030
+    second: Armor368
+  - first:
+      137: 13700032
+    second: Armor369
+  - first:
+      137: 13700034
+    second: Armor370
+  - first:
+      137: 13700036
+    second: Armor371
+  - first:
+      137: 13700038
+    second: Armor373
+  - first:
+      137: 13700040
+    second: Armor374
+  - first:
+      137: 13700042
+    second: Armor375_1
+  - first:
+      137: 13700044
+    second: Armor376
+  - first:
+      137: 13700046
+    second: Armor377
+  - first:
+      137: 13700048
+    second: Armor378
+  - first:
+      137: 13700050
+    second: Armor379
+  - first:
+      137: 13700052
+    second: Armor380
+  - first:
+      137: 13700054
+    second: BIG_GLASS
+  - first:
+      137: 13700056
+    second: Body1_1
+  - first:
+      137: 13700058
+    second: eyelashes1
+  - first:
+      137: 13700060
+    second: eyes
+  - first:
+      137: 13700062
+    second: hair1
+  - first:
+      137: 13700064
+    second: head
+  - first:
+      137: 13700066
+    second: SMALL_GLASS
+  - first:
+      137: 13700068
+    second: weapon_hurch2
+  - first:
+      137: 13700070
+    second: weapons_courses
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _default8
+    second: {fileID: 2100000, guid: c09992e5664fd004c8ca17a49deedeae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 675971a374a2fbb4fa4d0675fe61d6a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: bfce0edcd65dedd4d99c1612b1c77f6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 3f096642cbe164b4dbd6944bd62b1c26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: 8a87b4c66eb0c7f4384512b47b0b5e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: 85d7e6669138e304d9c7f73436097599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: fdfedb355fee34e4485cc8bfbacdb7ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: resnici_Default1
+    second: {fileID: 2100000, guid: a19f7f45633c9b147988b35b3fce4464, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: CosmoGirl1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: left_eye
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: right_eye
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: big_mask1
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: CosmoGirl1_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BASE MESH MAYA(HELM)(Clone)
+      parentName: 
+      position: {x: -0, y: -0.000047025875, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_Reference
+      parentName: BASE MESH MAYA(HELM)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_HipsEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0, y: 0.012750188, z: -0.0004888902}
+      rotation: {x: 3.0817192e-16, y: -5.551115e-17, z: -1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftAnkleEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.0023532733, y: 0.0016906912, z: -0.0009949028}
+      rotation: {x: 5.89806e-17, y: 1.3877788e-16, z: 2.220446e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightAnkleEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.0023532733, y: 0.0016906891, z: -0.000994906}
+      rotation: {x: -3.9551695e-16, y: 3.0531133e-16, z: 6.938894e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftWristEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.006926188, y: 0.015624776, z: 0.00055124506}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightWristEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.006926188, y: 0.015624776, z: 0.0005512456}
+      rotation: {x: -1.2325952e-32, y: 6.123234e-17, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftKneeEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.001617856, y: 0.0076412503, z: -0.00030156638}
+      rotation: {x: -1.9450587e-16, y: -1.22298e-16, z: 4.8572257e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightKneeEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.0016178553, y: 0.0076412503, z: -0.00030156592}
+      rotation: {x: 1.7141236e-16, y: 7.632783e-17, z: 1.3877788e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftElbowEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.0044204374, y: 0.01707217, z: -0.0006530115}
+      rotation: {x: 5.551115e-17, y: -2.7755576e-17, z: 8.326673e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightElbowEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.0044204374, y: 0.01707217, z: -0.00065301073}
+      rotation: {x: 1.110223e-16, y: -6.2450045e-17, z: 1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_ChestOriginEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -1.8460925e-19, y: 0.014612028, z: -0.00011813954}
+      rotation: {x: 4.1633363e-17, y: -7.1407584e-17, z: 4.9900762e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_ChestEndEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0, y: 0.019254006, z: -0.00095086975}
+      rotation: {x: -1.30361965e-33, y: 1.7252253e-17, z: -3.5257677e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftFootEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.002701403, y: 0.00042355066, z: 0.00044995098}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightFootEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.002701403, y: 0.00042354874, z: 0.0004499482}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftShoulderEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.0017217296, y: 0.018875461, z: -0.000909283}
+      rotation: {x: -1.3183898e-16, y: -7.112366e-17, z: -5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightShoulderEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.0017217296, y: 0.01887546, z: -0.000909283}
+      rotation: {x: -1.4224733e-16, y: -7.112366e-17, z: 2.7755576e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_HeadEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -8.53672e-18, y: 0.021658951, z: -0.00019897104}
+      rotation: {x: 3.0817192e-16, y: -5.551115e-17, z: -1.6653345e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHipEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.00130349, y: 0.012750188, z: -0.0004888902}
+      rotation: {x: -9.3282044e-17, y: -7.112366e-17, z: 6.2450045e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHipEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.00130349, y: 0.012750188, z: -0.0004888902}
+      rotation: {x: 1.0909784e-17, y: 8.673617e-18, z: 3.2612801e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandThumbEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.0069482317, y: 0.01446411, z: 0.0018521463}
+      rotation: {x: -1.110223e-16, y: -1.1622647e-16, z: 6.6786854e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandIndexEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.0078460155, y: 0.013903068, z: 0.0016933298}
+      rotation: {x: 2.7755576e-17, y: 1.179612e-16, z: 6.635317e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandMiddleEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.0076745586, y: 0.013709917, z: 0.0012836019}
+      rotation: {x: -4.1633363e-17, y: -1.3877788e-17, z: -1.1275703e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandRingEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.0076627666, y: 0.013801975, z: 0.00084911764}
+      rotation: {x: 1.3877788e-17, y: 1.3877788e-16, z: 8.586881e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandPinkyEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0.007651349, y: 0.013955342, z: 0.00047759703}
+      rotation: {x: 1.7347235e-17, y: -1.2294853e-16, z: 1.0730891e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandThumbEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.006948232, y: 0.01446411, z: 0.0018521469}
+      rotation: {x: -2.7755576e-17, y: 1.8388069e-16, z: 2.0556473e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandIndexEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.0078460155, y: 0.013903068, z: 0.0016933304}
+      rotation: {x: -2.7755576e-17, y: -2.94903e-17, z: -1.6263033e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandMiddleEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.0076745586, y: 0.013709917, z: 0.0012836023}
+      rotation: {x: 4.1633363e-17, y: 2.7755576e-17, z: 5.8113236e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandRingEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.0076627666, y: 0.013801975, z: 0.0008491182}
+      rotation: {x: -1.3877788e-17, y: -1.0061396e-16, z: 2.94903e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandPinkyEffector
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: 0.007651349, y: 0.013955342, z: 0.00047759752}
+      rotation: {x: -6.938894e-18, y: -1.3747684e-16, z: -7.867242e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_Hips
+      parentName: CosmoGirl1_Ctrl_Reference
+      position: {x: -0, y: 0.0138977, z: -0.00023521823}
+      rotation: {x: 3.0817192e-16, y: 5.551115e-17, z: -5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftUpLeg
+      parentName: CosmoGirl1_Ctrl_Hips
+      position: {x: -0.00130349, y: -0.0011475122, z: -0.00025367193}
+      rotation: {x: -1.2887098e-16, y: -1.4007892e-16, z: -4.510281e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftLeg
+      parentName: CosmoGirl1_Ctrl_LeftUpLeg
+      position: {x: -0.00031429477, y: -0.0051089446, z: 0.00018722651}
+      rotation: {x: -2.5348647e-16, y: -2.0209528e-16, z: 4.1633363e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftFoot
+      parentName: CosmoGirl1_Ctrl_LeftLeg
+      position: {x: -0.0007354161, y: -0.005950554, z: -0.0006933379}
+      rotation: {x: 5.2041704e-18, y: 1.5265567e-16, z: 1.3183898e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftToeBase
+      parentName: CosmoGirl1_Ctrl_LeftFoot
+      position: {x: -0.00034812975, y: -0.0012671405, z: 0.0014448541}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightUpLeg
+      parentName: CosmoGirl1_Ctrl_Hips
+      position: {x: 0.00130349, y: -0.0011475122, z: -0.00025367193}
+      rotation: {x: 5.996993e-17, y: 3.903128e-18, z: 2.1857516e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightLeg
+      parentName: CosmoGirl1_Ctrl_RightUpLeg
+      position: {x: 0.00031429477, y: -0.0051089446, z: 0.00018722651}
+      rotation: {x: 9.595189e-17, y: 2.333203e-16, z: 3.469447e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightFoot
+      parentName: CosmoGirl1_Ctrl_RightLeg
+      position: {x: 0.0007354161, y: -0.005950554, z: -0.0006933379}
+      rotation: {x: -4.284767e-16, y: 1.110223e-16, z: 1.0408341e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightToeBase
+      parentName: CosmoGirl1_Ctrl_RightFoot
+      position: {x: 0.00034812975, y: -0.0012671405, z: 0.0014448541}
+      rotation: {x: 2.2365468e-32, y: -0, z: -1.2246469e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_Spine
+      parentName: CosmoGirl1_Ctrl_Hips
+      position: {x: -0, y: 0.0007143274, z: 0.000117078685}
+      rotation: {x: -2.7755576e-17, y: 1.7589078e-17, z: 4.1358166e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_Spine1
+      parentName: CosmoGirl1_Ctrl_Spine
+      position: {x: -0, y: 0.0017160617, z: 0.000194804}
+      rotation: {x: 8.326673e-17, y: 1.1368578e-16, z: -1.392758e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_Spine2
+      parentName: CosmoGirl1_Ctrl_Spine1
+      position: {x: -0, y: 0.0017160617, z: -0.00024392386}
+      rotation: {x: -1.30361965e-33, y: 1.7252253e-17, z: -3.5257677e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftShoulder
+      parentName: CosmoGirl1_Ctrl_Spine2
+      position: {x: -0.0008586364, y: 0.0012098551, z: -0.00078361033}
+      rotation: {x: 8.673617e-18, y: 6.938894e-18, z: -7.643625e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftArm
+      parentName: CosmoGirl1_Ctrl_LeftShoulder
+      position: {x: -0.0008630932, y: -0.00037854837, z: 0.00004158682}
+      rotation: {x: -7.632783e-17, y: -4.1633363e-17, z: -5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftForeArm
+      parentName: CosmoGirl1_Ctrl_LeftArm
+      position: {x: -0.002698708, y: -0.0018032779, z: 0.00025635684}
+      rotation: {x: 9.7144515e-17, y: 2.0816682e-17, z: 5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHand
+      parentName: CosmoGirl1_Ctrl_LeftForeArm
+      position: {x: -0.0025057506, y: -0.0014473945, z: 0.0012042566}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandThumb1
+      parentName: CosmoGirl1_Ctrl_LeftHand
+      position: {x: -0.00007243121, y: -0.00039013385, z: 0.0006286077}
+      rotation: {x: 5.551115e-17, y: -1.179612e-16, z: 3.5735304e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandThumb2
+      parentName: CosmoGirl1_Ctrl_LeftHandThumb1
+      position: {x: 0.000008410148, y: -0.00015172287, z: 0.00017602918}
+      rotation: {x: -8.326673e-17, y: 1.110223e-16, z: 1.4571677e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandThumb3
+      parentName: CosmoGirl1_Ctrl_LeftHandThumb2
+      position: {x: 0.000034296183, y: -0.0002857516, z: 0.00025442493}
+      rotation: {x: -2.220446e-16, y: 1.0408341e-17, z: -2.4806546e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandThumb4
+      parentName: CosmoGirl1_Ctrl_LeftHandThumb3
+      position: {x: 0.000007681158, y: -0.00033305847, z: 0.00024183936}
+      rotation: {x: -1.110223e-16, y: -1.2316537e-16, z: 7.1991024e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandIndex1
+      parentName: CosmoGirl1_Ctrl_LeftHand
+      position: {x: -0.00069458975, y: -0.0007521189, z: 0.00068335835}
+      rotation: {x: -1.3877788e-16, y: -4.1633363e-17, z: -5.77779e-33, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandIndex2
+      parentName: CosmoGirl1_Ctrl_LeftHandIndex1
+      position: {x: -0.00023271647, y: -0.00038715842, z: 0.00024351229}
+      rotation: {x: -5.551115e-17, y: -1.405126e-16, z: 5.507747e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandIndex3
+      parentName: CosmoGirl1_Ctrl_LeftHandIndex2
+      position: {x: -0.000008145331, y: -0.00033943, z: 0.00012972129}
+      rotation: {x: 5.551115e-17, y: -7.632783e-17, z: 2.2638141e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandIndex4
+      parentName: CosmoGirl1_Ctrl_LeftHandIndex3
+      position: {x: 0.000015624657, y: -0.00024300117, z: 0.00008549299}
+      rotation: {x: 2.7755576e-17, y: 1.179612e-16, z: -4.466913e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandMiddle1
+      parentName: CosmoGirl1_Ctrl_LeftHand
+      position: {x: -0.00074485666, y: -0.000835419, z: 0.00042827966}
+      rotation: {x: -9.051871e-33, y: 5.551115e-17, z: 1.6306401e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandMiddle2
+      parentName: CosmoGirl1_Ctrl_LeftHandMiddle1
+      position: {x: -0.00015129041, y: -0.0004865775, z: 0.00015422805}
+      rotation: {x: 1.368614e-32, y: -4.1633363e-17, z: 3.287301e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandMiddle3
+      parentName: CosmoGirl1_Ctrl_LeftHandMiddle2
+      position: {x: 0.000045505745, y: -0.00032802104, z: 0.00008923787}
+      rotation: {x: 1.110223e-16, y: -2.4286129e-16, z: 1.8474805e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandMiddle4
+      parentName: CosmoGirl1_Ctrl_LeftHandMiddle3
+      position: {x: 0.000102271144, y: -0.00026484107, z: 0.000060611303}
+      rotation: {x: 0, y: -0, z: -8.673617e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandRing1
+      parentName: CosmoGirl1_Ctrl_LeftHand
+      position: {x: -0.0006878305, y: -0.0008725746, z: 0.0001681378}
+      rotation: {x: -6.938894e-18, y: 4.1633363e-17, z: 2.7625471e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandRing2
+      parentName: CosmoGirl1_Ctrl_LeftHandRing1
+      position: {x: -0.00013501165, y: -0.00032184497, z: 0.000040102426}
+      rotation: {x: 9.7144515e-17, y: -4.0766002e-17, z: 4.948841e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandRing3
+      parentName: CosmoGirl1_Ctrl_LeftHandRing2
+      position: {x: 0.000024014471, y: -0.00036465394, z: 0.0000426547}
+      rotation: {x: 4.1633363e-17, y: 6.938894e-17, z: 2.8449465e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandRing4
+      parentName: CosmoGirl1_Ctrl_LeftHandRing3
+      position: {x: 0.000062249674, y: -0.00026372826, z: 0.00004697761}
+      rotation: {x: 1.3877788e-17, y: 1.3877788e-16, z: 8.586881e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandPinky1
+      parentName: CosmoGirl1_Ctrl_LeftHand
+      position: {x: -0.00060736743, y: -0.00090753235, z: -0.0000393634}
+      rotation: {x: 2.3418767e-16, y: 3.512815e-17, z: 1.5588117e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandPinky2
+      parentName: CosmoGirl1_Ctrl_LeftHandPinky1
+      position: {x: -0.00011287371, y: -0.00026799802, z: -0.0000031042453}
+      rotation: {x: 2.8458366e-33, y: 6.1149e-17, z: -4.6539378e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandPinky3
+      parentName: CosmoGirl1_Ctrl_LeftHandPinky2
+      position: {x: -0.000013212545, y: -0.0002744052, z: -0.000020007421}
+      rotation: {x: -2.3939184e-16, y: -1.5720932e-17, z: 6.505213e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_LeftHandPinky4
+      parentName: CosmoGirl1_Ctrl_LeftHandPinky3
+      position: {x: 0.000008293112, y: -0.00021949993, z: -0.000011172896}
+      rotation: {x: 1.7347235e-17, y: -1.2294853e-16, z: 1.0730891e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightShoulder
+      parentName: CosmoGirl1_Ctrl_Spine2
+      position: {x: 0.0008586364, y: 0.0012098551, z: -0.00078361033}
+      rotation: {x: 8.673617e-18, y: -6.938894e-18, z: 7.643625e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightArm
+      parentName: CosmoGirl1_Ctrl_RightShoulder
+      position: {x: 0.0008630932, y: -0.00037854837, z: 0.00004158682}
+      rotation: {x: -2.0469737e-16, y: -8.500145e-17, z: 1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightForeArm
+      parentName: CosmoGirl1_Ctrl_RightArm
+      position: {x: 0.002698708, y: -0.0018032779, z: 0.00025635684}
+      rotation: {x: 1.6653345e-16, y: -1.179612e-16, z: 8.326673e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHand
+      parentName: CosmoGirl1_Ctrl_RightForeArm
+      position: {x: 0.0025057506, y: -0.0014473945, z: 0.0012042566}
+      rotation: {x: -1.2325952e-32, y: 6.123234e-17, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandThumb1
+      parentName: CosmoGirl1_Ctrl_RightHand
+      position: {x: 0.00007243121, y: -0.00039013385, z: 0.0006286077}
+      rotation: {x: 2.7755576e-17, y: -4.6837534e-17, z: -3.469447e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandThumb2
+      parentName: CosmoGirl1_Ctrl_RightHandThumb1
+      position: {x: -0.000008410148, y: -0.00015172287, z: 0.00017602918}
+      rotation: {x: -1.3877788e-16, y: -6.938894e-17, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandThumb3
+      parentName: CosmoGirl1_Ctrl_RightHandThumb2
+      position: {x: -0.000034296183, y: -0.0002857516, z: 0.00025442493}
+      rotation: {x: -1.110223e-16, y: 1.2316537e-16, z: -7.1991024e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandThumb4
+      parentName: CosmoGirl1_Ctrl_RightHandThumb3
+      position: {x: -0.000007681158, y: -0.00033305847, z: 0.00024183936}
+      rotation: {x: -2.7755576e-17, y: 1.8388069e-16, z: 2.0556473e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandIndex1
+      parentName: CosmoGirl1_Ctrl_RightHand
+      position: {x: 0.00069458975, y: -0.0007521189, z: 0.00068335835}
+      rotation: {x: -2.7755576e-17, y: 5.551115e-17, z: -3.469447e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandIndex2
+      parentName: CosmoGirl1_Ctrl_RightHandIndex1
+      position: {x: 0.00023271647, y: -0.00038715842, z: 0.00024351229}
+      rotation: {x: -2.7755576e-17, y: -1.6479873e-16, z: 1.7759232e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandIndex3
+      parentName: CosmoGirl1_Ctrl_RightHandIndex2
+      position: {x: 0.000008145331, y: -0.00033943, z: 0.00012972129}
+      rotation: {x: 5.551115e-17, y: -2.2724878e-16, z: 5.3342747e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandIndex4
+      parentName: CosmoGirl1_Ctrl_RightHandIndex3
+      position: {x: -0.000015624657, y: -0.00024300117, z: 0.00008549299}
+      rotation: {x: -2.7755576e-17, y: -4.3368087e-17, z: -1.5569143e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandMiddle1
+      parentName: CosmoGirl1_Ctrl_RightHand
+      position: {x: 0.00074485666, y: -0.000835419, z: 0.00042827966}
+      rotation: {x: -8.326673e-17, y: 5.551115e-17, z: -3.3133218e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandMiddle2
+      parentName: CosmoGirl1_Ctrl_RightHandMiddle1
+      position: {x: 0.00015129041, y: -0.0004865775, z: 0.00015422805}
+      rotation: {x: 1.3877788e-17, y: -1.0408341e-17, z: -1.8214596e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandMiddle3
+      parentName: CosmoGirl1_Ctrl_RightHandMiddle2
+      position: {x: -0.000045505745, y: -0.00032802104, z: 0.00008923787}
+      rotation: {x: 2.7755576e-17, y: 9.62965e-35, z: 3.469447e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandMiddle4
+      parentName: CosmoGirl1_Ctrl_RightHandMiddle3
+      position: {x: -0.000102271144, y: -0.00026484107, z: 0.000060611303}
+      rotation: {x: 4.1633363e-17, y: 3.469447e-17, z: 5.8113236e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandRing1
+      parentName: CosmoGirl1_Ctrl_RightHand
+      position: {x: 0.0006878305, y: -0.0008725746, z: 0.0001681378}
+      rotation: {x: 6.938894e-17, y: -6.2450045e-17, z: 2.3418767e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandRing2
+      parentName: CosmoGirl1_Ctrl_RightHandRing1
+      position: {x: 0.00013501165, y: -0.00032184497, z: 0.000040102426}
+      rotation: {x: 2.0816682e-17, y: 1.1275703e-17, z: -1.1384123e-18, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandRing3
+      parentName: CosmoGirl1_Ctrl_RightHandRing2
+      position: {x: -0.000024014471, y: -0.00036465394, z: 0.0000426547}
+      rotation: {x: 4.7922554e-33, y: -1.700029e-16, z: 2.8189256e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandRing4
+      parentName: CosmoGirl1_Ctrl_RightHandRing3
+      position: {x: -0.000062249674, y: -0.00026372826, z: 0.00004697761}
+      rotation: {x: -1.3877788e-17, y: -1.0408341e-16, z: 1.5482407e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandPinky1
+      parentName: CosmoGirl1_Ctrl_RightHand
+      position: {x: 0.00060736743, y: -0.00090753235, z: -0.0000393634}
+      rotation: {x: -2.6020852e-18, y: 2.6020852e-18, z: -1.6672997e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandPinky2
+      parentName: CosmoGirl1_Ctrl_RightHandPinky1
+      position: {x: 0.00011287371, y: -0.00026799802, z: -0.0000031042453}
+      rotation: {x: 2.2278915e-32, y: 1.4463257e-16, z: -1.5403802e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandPinky3
+      parentName: CosmoGirl1_Ctrl_RightHandPinky2
+      position: {x: 0.000013212545, y: -0.0002744052, z: -0.000020007421}
+      rotation: {x: 6.938894e-18, y: 6.396793e-18, z: -1.10636055e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_RightHandPinky4
+      parentName: CosmoGirl1_Ctrl_RightHandPinky3
+      position: {x: -0.000008293112, y: -0.00021949993, z: -0.000011172896}
+      rotation: {x: -3.469447e-18, y: -6.624475e-17, z: -6.1162555e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_Neck
+      parentName: CosmoGirl1_Ctrl_Spine2
+      position: {x: -0, y: 0.0017160629, z: -0.0005884303}
+      rotation: {x: -1.110223e-16, y: 2.2031329e-17, z: 1.1133582e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Ctrl_Head
+      parentName: CosmoGirl1_Ctrl_Neck
+      position: {x: -0, y: 0.0018987345, z: 0.00055671914}
+      rotation: {x: 3.0817192e-16, y: 5.551115e-17, z: -5.551115e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Reference
+      parentName: BASE MESH MAYA(HELM)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair
+      parentName: BASE MESH MAYA(HELM)(Clone)
+      position: {x: -0, y: 0.022708919, z: -0.0005000764}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.416521, y: 1.416521, z: 1.416521}
+    - name: hair1
+      parentName: hair
+      position: {x: 0.00000005043032, y: -0.017924106, z: 0.0003813793}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.70595497, y: 0.70595497, z: 0.70595497}
+    - name: eyelashes1
+      parentName: hair
+      position: {x: 0.0000002962952, y: -0.017900122, z: 0.00029998986}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.70595497, y: 0.70595497, z: 0.70595497}
+    - name: weapon
+      parentName: BASE MESH MAYA(HELM)(Clone)
+      position: {x: 0.006266281, y: 0.012398801, z: -0.00023078886}
+      rotation: {x: 0.25603238, y: 0.028193977, z: 0.023452329, w: 0.9659723}
+      scale: {x: 21.203308, y: 21.203308, z: 21.203308}
+    - name: weapon_hurch2
+      parentName: weapon
+      position: {x: -0.000004486534, y: 0.000019299005, z: -0.000025714948}
+      rotation: {x: 0.016776565, y: 0.8794017, z: 0.47476897, w: -0.031074777}
+      scale: {x: 0.29279357, y: 0.29279357, z: 0.29279357}
+    - name: weapons_courses
+      parentName: weapon
+      position: {x: -0.0065668277, y: -0.00982907, z: 0.005662956}
+      rotation: {x: -0.25603238, y: -0.028193977, z: -0.023452329, w: 0.9659723}
+      scale: {x: 0.04716245, y: 0.04716245, z: 0.04716245}
+    - name: Head
+      parentName: BASE MESH MAYA(HELM)(Clone)
+      position: {x: -0, y: 1.8474107e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head
+      parentName: Head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: eyes
+      parentName: Head
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor1
+      parentName: BASE MESH MAYA(HELM)(Clone)
+      position: {x: -0, y: 0.015090517, z: -0.034545604}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 18, y: 18, z: 18}
+    - name: SMALL_GLASS
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor380
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor379
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor378
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor377
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor376
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor375_1
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor374
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor373
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BIG_GLASS
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor371
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor370
+      parentName: Armor1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armor369
+      parentName: Armor1
+      position: {x: -0, y: -0.02016549, z: 0.0019363989}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor368
+      parentName: Armor1
+      position: {x: -0.0000054237516, y: -0.0044129333, z: 0.002564276}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor367
+      parentName: Armor1
+      position: {x: -0, y: -0.0020911833, z: 0.0022288652}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor366
+      parentName: Armor1
+      position: {x: -0, y: -0.007398351, z: 0.001428925}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor365
+      parentName: Armor1
+      position: {x: -0, y: -0.007112991, z: 0.0033494143}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor364
+      parentName: Armor1
+      position: {x: -0, y: -0.0073218066, z: 0.0023190554}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor363
+      parentName: Armor1
+      position: {x: -0, y: -0.006740566, z: 0.0017148927}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor362
+      parentName: Armor1
+      position: {x: -9.952651e-10, y: -0.015179827, z: 0.0018467961}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor361
+      parentName: Armor1
+      position: {x: -0.0000009685034, y: -0.018162047, z: 0.0027189837}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor360
+      parentName: Armor1
+      position: {x: -0, y: -0.018832851, z: 0.002917959}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor359
+      parentName: Armor1
+      position: {x: -0, y: -0.018458527, z: 0.0022511112}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor358
+      parentName: Armor1
+      position: {x: -0, y: -0.017806813, z: 0.0018553234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor357
+      parentName: Armor1
+      position: {x: -0.00043294203, y: -0.0132822115, z: 0.0018466309}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor356
+      parentName: Armor1
+      position: {x: 0.002137139, y: -0.018215325, z: 0.0028408626}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor355
+      parentName: Armor1
+      position: {x: 0.0025378822, y: -0.01768899, z: 0.0028028737}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor3
+      parentName: Armor1
+      position: {x: -0, y: -0.016836356, z: 0.0024160792}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Armor2
+      parentName: Armor1
+      position: {x: -0, y: -0.020081095, z: 0.002168449}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.055555556, y: 0.055555556, z: 0.055555556}
+    - name: Body
+      parentName: BASE MESH MAYA(HELM)(Clone)
+      position: {x: -0, y: 1.8474107e-18, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body1_1
+      parentName: Body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl
+      parentName: BASE MESH MAYA(HELM)(Clone)
+      position: {x: -0, y: 0.015090517, z: -0.034545604}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 18, y: 18, z: 18}
+    - name: CosmoGirl1_Hips
+      parentName: BASE MESH MAYA(HELM)(Clone)
+      position: {x: 3.111254e-19, y: 0.0138977, z: -0.00023521823}
+      rotation: {x: -0, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control
+      parentName: CosmoGirl1_Hips
+      position: {x: 0.0011754665, y: 0.00005224551, z: 0.0012224293}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftUpLeg
+      parentName: CosmoGirl1_Hips
+      position: {x: -0.00130349, y: -0.0011475122, z: -0.00025367193}
+      rotation: {x: -0.000010781921, y: 0.00000064634247, z: 6.9774134e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftLeg
+      parentName: CosmoGirl1_LeftUpLeg
+      position: {x: -0.00031429637, y: -0.005108947, z: 0.00018716558}
+      rotation: {x: 0.000010871328, y: -0.0000006314417, z: 6.684682e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control 1
+      parentName: CosmoGirl1_LeftLeg
+      position: {x: -0.00023823796, y: -0.00004044337, z: -0.0014044952}
+      rotation: {x: 0.05521864, y: 0.05098562, z: -0.06291334, w: 0.9951851}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control2
+      parentName: CosmoGirl1_LeftLeg
+      position: {x: 0.000021449961, y: -0.0006117799, z: 0.0010667411}
+      rotation: {x: 0.9904695, y: -0.061624933, z: -0.031848285, w: -0.11898834}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftFoot
+      parentName: CosmoGirl1_LeftLeg
+      position: {x: -0.00073541736, y: -0.005950554, z: -0.0006933368}
+      rotation: {x: -0, y: 5.684342e-14, z: 1.713265e-13, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftToeBase
+      parentName: CosmoGirl1_LeftFoot
+      position: {x: -0.00034812975, y: -0.0012671405, z: 0.0014448541}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: knee_left
+      parentName: CosmoGirl1_LeftLeg
+      position: {x: 0.000021449961, y: -0.0006117799, z: 0.0010667411}
+      rotation: {x: 0.9904695, y: -0.061624926, z: -0.031848274, w: -0.11898834}
+      scale: {x: 1, y: 1.0000178, z: 1.0000387}
+    - name: knee_left1
+      parentName: knee_left
+      position: {x: 0.0000000016345032, y: -0.0012719687, z: -5.0891674e-10}
+      rotation: {x: -0.000000022351742, y: -0.006564657, z: 0.000000014901161, w: 0.9999785}
+      scale: {x: 0.99999815, y: 0.99998474, z: 0.99998665}
+    - name: back_knee_left
+      parentName: CosmoGirl1_LeftLeg
+      position: {x: -0.00023823796, y: -0.00004044337, z: -0.0014044952}
+      rotation: {x: 0.055218626, y: 0.05098563, z: -0.06291336, w: 0.9951851}
+      scale: {x: 1.0000015, y: 0.99999994, z: 1.0000001}
+    - name: back_knee_left1
+      parentName: back_knee_left
+      position: {x: 0.0000000013699564, y: -0.0013617895, z: -7.799467e-10}
+      rotation: {x: 0.000000022351742, y: 0.047730446, z: 0.000000031199306, w: 0.9988603}
+      scale: {x: 0.9999996, y: 1.0000035, z: 1.0000006}
+    - name: CosmoGirl1_RightUpLeg
+      parentName: CosmoGirl1_Hips
+      position: {x: 0.00130349, y: -0.0011475122, z: -0.00025367193}
+      rotation: {x: -0.00001097098, y: -0.0000007040848, z: -7.779871e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightLeg
+      parentName: CosmoGirl1_RightUpLeg
+      position: {x: 0.00031429768, y: -0.005108947, z: 0.00018714664}
+      rotation: {x: 0.000011015683, y: 0.00000065938065, z: -7.198422e-12, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control 2
+      parentName: CosmoGirl1_RightLeg
+      position: {x: 0.0003037141, y: -0.00012400727, z: -0.0015486269}
+      rotation: {x: 0.99360883, y: 0.05551362, z: 0.058956403, w: 0.078638434}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control1
+      parentName: CosmoGirl1_RightLeg
+      position: {x: -0.000021451222, y: -0.00061178085, z: 0.001066741}
+      rotation: {x: 0.11898839, y: -0.03184826, z: 0.06162493, w: 0.9904695}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightFoot
+      parentName: CosmoGirl1_RightLeg
+      position: {x: 0.0007354185, y: -0.005950554, z: -0.00069333694}
+      rotation: {x: -0, y: -0, z: -9.735268e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightToeBase
+      parentName: CosmoGirl1_RightFoot
+      position: {x: 0.00034812975, y: -0.0012671405, z: 0.0014448541}
+      rotation: {x: 2.4845976e-22, y: -0.000000025521615, z: -4.3368087e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: knee_right
+      parentName: CosmoGirl1_RightLeg
+      position: {x: -0.000021451222, y: -0.00061178085, z: 0.001066741}
+      rotation: {x: 0.11898838, y: -0.031848256, z: 0.061624937, w: 0.9904695}
+      scale: {x: 1, y: 1.0000005, z: 0.99999875}
+    - name: knee_right1
+      parentName: knee_right
+      position: {x: -0, y: 0.0012719687, z: -6.927791e-19}
+      rotation: {x: 0.000000007450581, y: -0.006564658, z: -0.0000000037252903, w: 0.9999785}
+      scale: {x: 0.9999999, y: 0.9999987, z: 1}
+    - name: back_knee_right
+      parentName: CosmoGirl1_RightLeg
+      position: {x: 0.0003037141, y: -0.00012400727, z: -0.0015486269}
+      rotation: {x: 0.9951851, y: 0.062913336, z: 0.050985605, w: -0.05521867}
+      scale: {x: 1, y: 1.0000355, z: 1.0000452}
+    - name: back_knee_right1
+      parentName: back_knee_right
+      position: {x: -0, y: 0.0013617788, z: 4.618527e-19}
+      rotation: {x: -0.000000014901161, y: 0.047730476, z: 0.0000000037252903, w: 0.9988603}
+      scale: {x: 0.99999726, y: 1.0000403, z: 1.0000265}
+    - name: CosmoGirl1_Spine
+      parentName: CosmoGirl1_Hips
+      position: {x: 1.8460928e-19, y: 0.0007143274, z: 0.000117078685}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Spine1
+      parentName: CosmoGirl1_Spine
+      position: {x: 1.6323068e-18, y: 0.0017160617, z: 0.00019480403}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Spine2
+      parentName: CosmoGirl1_Spine1
+      position: {x: 2.0560656e-18, y: 0.0017160617, z: -0.00024392383}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftShoulder
+      parentName: CosmoGirl1_Spine2
+      position: {x: -0.0008586364, y: 0.0012098551, z: -0.00078361033}
+      rotation: {x: -0, y: -0.0047466904, z: -0.043207172, w: 0.99905485}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftArm
+      parentName: CosmoGirl1_LeftShoulder
+      position: {x: -0.0008630932, y: -0.00037854837, z: 0.00004158682}
+      rotation: {x: 0.00069790153, y: -0.03209671, z: -0.2184665, w: 0.9753162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: drone
+      parentName: CosmoGirl1_LeftArm
+      position: {x: -0.0011991861, y: 0.00036633684, z: -0.000053143725}
+      rotation: {x: -0.0000000017739694, y: -9.677024e-10, z: -0.000000010478391,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000001}
+    - name: drone5
+      parentName: drone
+      position: {x: 0.00059196627, y: 0.00023441015, z: 0.00025692675}
+      rotation: {x: -0.07556442, y: -0.0014218054, z: 0.15690716, w: 0.9847173}
+      scale: {x: 1.0000004, y: 1, z: 1}
+    - name: drone6
+      parentName: drone5
+      position: {x: -0.0006471641, y: -8.3440183e-20, z: -1.0103028e-19}
+      rotation: {x: -0.0065119793, y: -0.037836898, z: -0.16930188, w: 0.9848162}
+      scale: {x: 0.99999976, y: 1.0000002, z: 1.0000001}
+    - name: drone2
+      parentName: drone
+      position: {x: 0.0010401111, y: 0.00034491316, z: -0.00006232771}
+      rotation: {x: -0, y: -0, z: -1.7166744e-18, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: drone3
+      parentName: drone
+      position: {x: 0.0006341925, y: 0.00020548211, z: -0.0003893326}
+      rotation: {x: 0.010458129, y: 0.066012375, z: 0.15602069, w: 0.98549}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: drone4
+      parentName: drone3
+      position: {x: -0.00071502425, y: 3.582065e-18, z: -1.7319478e-19}
+      rotation: {x: -0.0104581285, y: -0.06601237, z: -0.15602069, w: 0.98549}
+      scale: {x: 0.9999998, y: 0.99999964, z: 1}
+    - name: CosmoGirl1_LeftForeArm
+      parentName: CosmoGirl1_LeftArm
+      position: {x: -0.002698708, y: -0.0018032913, z: 0.00025627165}
+      rotation: {x: 0.06346417, y: -0.10862992, z: 0.0014890713, w: 0.9920532}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHand
+      parentName: CosmoGirl1_LeftForeArm
+      position: {x: -0.0025057506, y: -0.0014473945, z: 0.0012042561}
+      rotation: {x: -0.023468018, y: -0.012162864, z: -0.06344953, w: 0.99763495}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandThumb1
+      parentName: CosmoGirl1_LeftHand
+      position: {x: -0.00007243139, y: -0.0003901338, z: 0.0006286077}
+      rotation: {x: -0.099512644, y: -0.059289742, z: -0.046348818, w: 0.99218637}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandThumb2
+      parentName: CosmoGirl1_LeftHandThumb1
+      position: {x: 0.000008410099, y: -0.00015172284, z: 0.00017602918}
+      rotation: {x: -0.02559729, y: -0.021444842, z: -0.021751773, w: 0.9992056}
+      scale: {x: 1, y: 0.99999094, z: 0.9999955}
+    - name: CosmoGirl1_LeftHandThumb3
+      parentName: CosmoGirl1_LeftHandThumb2
+      position: {x: 0.000034296332, y: -0.00028575206, z: 0.00025442493}
+      rotation: {x: -0.016546758, y: 0.0067111906, z: 0.009768024, w: 0.9997929}
+      scale: {x: 1, y: 0.99999446, z: 0.9999989}
+    - name: CosmoGirl1_LeftHandThumb4
+      parentName: CosmoGirl1_LeftHandThumb3
+      position: {x: 0.000007681366, y: -0.00033305847, z: 0.00024183934}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999944, z: 0.9999993}
+    - name: CosmoGirl1_LeftHandIndex1
+      parentName: CosmoGirl1_LeftHand
+      position: {x: -0.0006945899, y: -0.0007521187, z: 0.0006833582}
+      rotation: {x: 0.0071165715, y: -0.0154569745, z: -0.017773958, w: 0.9996972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandIndex2
+      parentName: CosmoGirl1_LeftHandIndex1
+      position: {x: -0.00023271651, y: -0.00038715842, z: 0.00024351226}
+      rotation: {x: -0.07824251, y: -0.06805226, z: -0.18295059, w: 0.977638}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandIndex3
+      parentName: CosmoGirl1_LeftHandIndex2
+      position: {x: -0.0000081426, y: -0.00033943, z: 0.00012972148}
+      rotation: {x: -0.00065470487, y: -0.0005901009, z: -0.0019052736, w: 0.99999785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandIndex4
+      parentName: CosmoGirl1_LeftHandIndex3
+      position: {x: 0.000015605545, y: -0.00024300117, z: 0.00008549651}
+      rotation: {x: 4.5480937e-13, y: -0.00064330595, z: -1.7783308e-14, w: 0.9999998}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: CosmoGirl1_LeftHandMiddle1
+      parentName: CosmoGirl1_LeftHand
+      position: {x: -0.00074485684, y: -0.000835419, z: 0.0004282795}
+      rotation: {x: -0.039918087, y: -0.02513276, z: -0.11844983, w: 0.991839}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandMiddle2
+      parentName: CosmoGirl1_LeftHandMiddle1
+      position: {x: -0.00015129046, y: -0.0004865775, z: 0.00015422805}
+      rotation: {x: -0.016992494, y: -0.0486357, z: -0.17011054, w: 0.98407745}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandMiddle3
+      parentName: CosmoGirl1_LeftHandMiddle2
+      position: {x: 0.00004550573, y: -0.00032802104, z: 0.00008923791}
+      rotation: {x: -0.012747209, y: -0.021636525, z: -0.073031776, w: 0.9970134}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandMiddle4
+      parentName: CosmoGirl1_LeftHandMiddle3
+      position: {x: 0.00010227113, y: -0.00026484107, z: 0.00006061136}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandRing1
+      parentName: CosmoGirl1_LeftHand
+      position: {x: -0.0006878305, y: -0.0008725746, z: 0.00016813767}
+      rotation: {x: -0.0789821, y: 0.02115973, z: -0.09608935, w: 0.99200857}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandRing2
+      parentName: CosmoGirl1_LeftHandRing1
+      position: {x: -0.00013501165, y: -0.00032184497, z: 0.00004010241}
+      rotation: {x: -0.003070853, y: -0.023045467, z: -0.19528928, w: 0.98047006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandRing3
+      parentName: CosmoGirl1_LeftHandRing2
+      position: {x: 0.00002401447, y: -0.00036465394, z: 0.000042654727}
+      rotation: {x: 0.015963921, y: -0.0041445554, z: -0.04442017, w: 0.9988768}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandRing4
+      parentName: CosmoGirl1_LeftHandRing3
+      position: {x: 0.00006224967, y: -0.00026372826, z: 0.00004697765}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandPinky1
+      parentName: CosmoGirl1_LeftHand
+      position: {x: -0.00060736743, y: -0.00090753235, z: -0.00003936351}
+      rotation: {x: -0.12195085, y: 0.052630186, z: -0.10943236, w: 0.98508}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandPinky2
+      parentName: CosmoGirl1_LeftHandPinky1
+      position: {x: -0.00011287371, y: -0.00026799802, z: -0.0000031042582}
+      rotation: {x: -0.023069575, y: 0.011341602, z: -0.14031853, w: 0.9897727}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandPinky3
+      parentName: CosmoGirl1_LeftHandPinky2
+      position: {x: -0.0000132125315, y: -0.0002744052, z: -0.000020007401}
+      rotation: {x: 0.0006956661, y: 0.00016453858, z: -0.0027158894, w: 0.99999607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_LeftHandPinky4
+      parentName: CosmoGirl1_LeftHandPinky3
+      position: {x: 0.000008293123, y: -0.00021949993, z: -0.000011172877}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightShoulder
+      parentName: CosmoGirl1_Spine2
+      position: {x: 0.0008586364, y: 0.0012098551, z: -0.00078361033}
+      rotation: {x: -0, y: 0.0047466904, z: 0.043207172, w: 0.99905485}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightArm
+      parentName: CosmoGirl1_RightShoulder
+      position: {x: 0.0008630932, y: -0.00037854837, z: 0.00004158682}
+      rotation: {x: 0.00069789117, y: 0.032096654, z: 0.21846645, w: 0.9753162}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightForeArm
+      parentName: CosmoGirl1_RightArm
+      position: {x: 0.002698708, y: -0.0018032907, z: 0.00025627122}
+      rotation: {x: 0.06346417, y: 0.108629994, z: -0.0014890248, w: 0.9920532}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHand
+      parentName: CosmoGirl1_RightForeArm
+      position: {x: 0.0025057506, y: -0.0014473944, z: 0.0012042563}
+      rotation: {x: -0.023468018, y: 0.012162864, z: 0.0634495, w: 0.997635}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control 4
+      parentName: CosmoGirl1_RightHand
+      position: {x: 0.00027471685, y: -0.00090367004, z: 0.00047576276}
+      rotation: {x: 0.6882666, y: 0.14399643, z: 0.060339767, w: 0.7084584}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control 5
+      parentName: _control 4
+      position: {x: 0.000013000129, y: 0.00044630788, z: 0.00024306418}
+      rotation: {x: 0.99087316, y: 0.009349012, z: -0.018050894, w: 0.13325591}
+      scale: {x: 1, y: 1, z: 1}
+    - name: weapon 1
+      parentName: CosmoGirl1_RightHand
+      position: {x: 0.00027471685, y: -0.00090367004, z: 0.00047576276}
+      rotation: {x: 0.82099956, y: 0.052851666, z: -0.03652005, w: 0.56730306}
+      scale: {x: 0.99999815, y: 0.99999845, z: 1.0000024}
+    - name: weapon_lazer1
+      parentName: weapon 1
+      position: {x: -0, y: 0.000663023, z: 7.389643e-18}
+      rotation: {x: 0.5363177, y: 0.06211268, z: 0.011171434, w: 0.84165347}
+      scale: {x: 0.999999, y: 0.999985, z: 1.0000066}
+    - name: weapon_lazer2
+      parentName: weapon_lazer1
+      position: {x: -1.8474107e-18, y: 0.0018232828, z: -3.1175056e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000015, y: 0.99998796, z: 0.99999964}
+    - name: weapon_hurch
+      parentName: weapon 1
+      position: {x: 0.000013000129, y: 0.00044630788, z: 0.00024306418}
+      rotation: {x: -0.9908732, y: -0.009349004, z: 0.01805087, w: -0.13325585}
+      scale: {x: 1.0000036, y: 1.000031, z: 1.0000212}
+    - name: weapon_hurch1
+      parentName: weapon_hurch
+      position: {x: 1.8474107e-18, y: 0.00037581945, z: -3.6948214e-18}
+      rotation: {x: -0, y: 0.0000000018626447, z: -0, w: 1}
+      scale: {x: 1.0000036, y: 1.0000141, z: 1.0000147}
+    - name: CosmoGirl1_RightHandThumb1
+      parentName: CosmoGirl1_RightHand
+      position: {x: 0.00007243135, y: -0.00039013376, z: 0.0006286077}
+      rotation: {x: -0.09951276, y: 0.059289765, z: 0.046348862, w: 0.9921864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandThumb2
+      parentName: CosmoGirl1_RightHandThumb1
+      position: {x: -0.000008410111, y: -0.00015172284, z: 0.00017602918}
+      rotation: {x: -0.025600174, y: 0.02144572, z: 0.021752467, w: 0.99920547}
+      scale: {x: 1, y: 0.9999918, z: 0.9999955}
+    - name: CosmoGirl1_RightHandThumb3
+      parentName: CosmoGirl1_RightHandThumb2
+      position: {x: -0.000034296343, y: -0.00028575203, z: 0.000254425}
+      rotation: {x: -0.016547803, y: -0.006711844, z: -0.009769011, w: 0.9997929}
+      scale: {x: 1, y: 0.9999939, z: 0.9999989}
+    - name: CosmoGirl1_RightHandThumb4
+      parentName: CosmoGirl1_RightHandThumb3
+      position: {x: -0.000007681367, y: -0.00033305847, z: 0.00024183939}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999464, z: 0.9999993}
+    - name: CosmoGirl1_RightHandIndex1
+      parentName: CosmoGirl1_RightHand
+      position: {x: 0.0006945899, y: -0.0007521187, z: 0.0006833582}
+      rotation: {x: 0.00711653, y: 0.015456514, z: 0.017773144, w: 0.9996972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandIndex2
+      parentName: CosmoGirl1_RightHandIndex1
+      position: {x: 0.00023271651, y: -0.0003871583, z: 0.00024351229}
+      rotation: {x: -0.07823793, y: 0.06803071, z: 0.18294999, w: 0.97764003}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandIndex3
+      parentName: CosmoGirl1_RightHandIndex2
+      position: {x: 0.000008148118, y: -0.00033943, z: 0.00012972116}
+      rotation: {x: -0.00065655244, y: 0.0008361636, z: 0.0019090953, w: 0.9999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandIndex4
+      parentName: CosmoGirl1_RightHandIndex3
+      position: {x: -0.000015643727, y: -0.00024300112, z: 0.00008548954}
+      rotation: {x: 4.5471745e-13, y: -0.00064332667, z: 1.0249839e-14, w: 0.9999998}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: CosmoGirl1_RightHandMiddle1
+      parentName: CosmoGirl1_RightHand
+      position: {x: 0.00074485666, y: -0.00083541876, z: 0.0004282796}
+      rotation: {x: -0.039918084, y: 0.025132785, z: 0.118449844, w: 0.99183905}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandMiddle2
+      parentName: CosmoGirl1_RightHandMiddle1
+      position: {x: 0.00015129046, y: -0.0004865775, z: 0.00015422802}
+      rotation: {x: -0.016989611, y: 0.048624173, z: 0.1701068, w: 0.9840786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandMiddle3
+      parentName: CosmoGirl1_RightHandMiddle2
+      position: {x: -0.00004550383, y: -0.00032802104, z: 0.00008923887}
+      rotation: {x: -0.012755572, y: 0.021758983, z: 0.0730314, w: 0.99701065}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandMiddle4
+      parentName: CosmoGirl1_RightHandMiddle3
+      position: {x: -0.000102284655, y: -0.00026484107, z: 0.00006058851}
+      rotation: {x: 4.5471745e-13, y: -0.00064332667, z: 1.0249839e-14, w: 0.9999998}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: CosmoGirl1_RightHandRing1
+      parentName: CosmoGirl1_RightHand
+      position: {x: 0.0006878305, y: -0.0008725746, z: 0.00016813776}
+      rotation: {x: -0.07898178, y: -0.021159682, z: 0.0960889, w: 0.9920086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandRing2
+      parentName: CosmoGirl1_RightHandRing1
+      position: {x: 0.00013501168, y: -0.00032184497, z: 0.000040102434}
+      rotation: {x: -0.0030675232, y: 0.023034938, z: 0.19528581, w: 0.9804711}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandRing3
+      parentName: CosmoGirl1_RightHandRing2
+      position: {x: -0.000024013552, y: -0.00036465394, z: 0.000042655247}
+      rotation: {x: 0.015960123, y: 0.004267673, z: 0.044428885, w: 0.998876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandRing4
+      parentName: CosmoGirl1_RightHandRing3
+      position: {x: -0.00006226015, y: -0.00026372826, z: 0.000046963745}
+      rotation: {x: 4.5471745e-13, y: -0.00064332667, z: 1.0249839e-14, w: 0.9999998}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: CosmoGirl1_RightHandPinky1
+      parentName: CosmoGirl1_RightHand
+      position: {x: 0.00060736743, y: -0.00090753235, z: -0.00003936344}
+      rotation: {x: -0.12195082, y: -0.05263017, z: 0.10943237, w: 0.98508006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandPinky2
+      parentName: CosmoGirl1_RightHandPinky1
+      position: {x: 0.00011287371, y: -0.00026799802, z: -0.0000031042434}
+      rotation: {x: -0.023068378, y: -0.011352261, z: 0.14032, w: 0.9897724}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandPinky3
+      parentName: CosmoGirl1_RightHandPinky2
+      position: {x: 0.000013212118, y: -0.0002744052, z: -0.000020007676}
+      rotation: {x: 0.0006948745, y: -0.000042135816, z: 0.0027143059, w: 0.9999961}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_RightHandPinky4
+      parentName: CosmoGirl1_RightHandPinky3
+      position: {x: -0.00000829062, y: -0.00021949993, z: -0.000011174725}
+      rotation: {x: 4.5471745e-13, y: -0.00064332667, z: 1.0249839e-14, w: 0.9999998}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: CosmoGirl1_Neck
+      parentName: CosmoGirl1_Spine2
+      position: {x: 1.5105066e-18, y: 0.0017160629, z: -0.0005884303}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CosmoGirl1_Head
+      parentName: CosmoGirl1_Neck
+      position: {x: 3.0478311e-18, y: 0.0018987345, z: 0.000556719}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: helm_controller1
+      parentName: CosmoGirl1_Head
+      position: {x: 0.000006490489, y: -0.00033518646, z: -0.00085131574}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: small_mask_controll1
+      parentName: CosmoGirl1_Head
+      position: {x: -0.0000024776787, y: -0.00020447523, z: 0.0012204557}
+      rotation: {x: 0.06199241, y: -0.00021063203, z: 0.003391152, w: 0.99807084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control 3
+      parentName: CosmoGirl1_Head
+      position: {x: -0.0003930952, y: -0.00006777095, z: 0.0006933763}
+      rotation: {x: -0.7016326, y: 0.08591025, z: 0.027543673, w: 0.7068044}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control4
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00039309493, y: -0.00006771297, z: 0.0006933756}
+      rotation: {x: 0.7068044, y: -0.027543673, z: 0.08591025, w: 0.7016326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control5
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00039545476, y: -0.00004710095, z: 0.00062025257}
+      rotation: {x: -0.777886, y: 0.0011285075, z: 0.0009116483, w: 0.6284038}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control6
+      parentName: CosmoGirl1_Head
+      position: {x: -0.0003954542, y: -0.000047089903, z: 0.00062025234}
+      rotation: {x: 0.6284038, y: -0.0009116483, z: 0.0011285075, w: 0.777886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control7
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00013018482, y: 0.0009858934, z: 0.00045114732}
+      rotation: {x: 0.87150174, y: -0.47622478, z: -0.03065954, w: -0.11293652}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control8
+      parentName: CosmoGirl1_Head
+      position: {x: 0.000049131704, y: 0.0014634234, z: -0.00017829036}
+      rotation: {x: 0.38577184, y: 0.6280645, z: -0.29703432, w: 0.6070302}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control9
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00014526065, y: 0.0012813958, z: -0.0005231031}
+      rotation: {x: 0.91235435, y: -0.08131619, z: -0.06642911, w: -0.39570743}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control10
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00048492794, y: 0.00091288856, z: 0.00051184936}
+      rotation: {x: 0.9524402, y: 0.19178, z: 0.046744682, w: -0.2321489}
+      scale: {x: 1, y: 1, z: 1}
+    - name: _control11
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00041475147, y: 0.001252745, z: -0.00019361096}
+      rotation: {x: 0.756166, y: 0.07621789, z: 0.43851802, w: -0.47969347}
+      scale: {x: 1, y: 1, z: 1}
+    - name: small_mask1_1
+      parentName: CosmoGirl1_Head
+      position: {x: 0.000010514155, y: 0.00015349413, z: 0.0005275101}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: small_mask1
+      parentName: small_mask1_1
+      position: {x: -0.000012991835, y: -0.00035796934, z: 0.0006929456}
+      rotation: {x: 0.061992418, y: -0.00021063203, z: 0.0033911522, w: 0.99807084}
+      scale: {x: 1, y: 0.9999961, z: 1}
+    - name: small_mask2
+      parentName: small_mask1
+      position: {x: -0, y: 0.00018712948, z: -4.618527e-19}
+      rotation: {x: -0, y: -0, z: -1.9099389e-11, w: 1}
+      scale: {x: 1, y: 0.99999934, z: 1}
+    - name: helm
+      parentName: CosmoGirl1_Head
+      position: {x: 0.000006490489, y: -0.00033518646, z: -0.00085131574}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: big_mask_control1
+      parentName: helm
+      position: {x: -0.0000069988105, y: 0.00013197892, z: 0.0024217076}
+      rotation: {x: -0.17051399, y: 0.00039777026, z: 0.0022986028, w: 0.9853525}
+      scale: {x: 1, y: 1, z: 1}
+    - name: big_mask1
+      parentName: helm
+      position: {x: -0.0000069988105, y: 0.00013197892, z: 0.0024217076}
+      rotation: {x: -0.17051399, y: 0.00039777017, z: 0.002298603, w: 0.9853525}
+      scale: {x: 0.9999924, y: 1.0000001, z: 1}
+    - name: big_mask2
+      parentName: big_mask1
+      position: {x: -2.8865792e-20, y: 0.00071502745, z: 1.8474107e-18}
+      rotation: {x: -0, y: -0, z: -5.0931696e-11, w: 1}
+      scale: {x: 0.9999962, y: 1.0000015, z: 1}
+    - name: helm1
+      parentName: helm
+      position: {x: -0.000005301343, y: 0.001475018, z: -0.000022075461}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right_front_hair
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00048492794, y: 0.00091288856, z: 0.00051184936}
+      rotation: {x: 0.9329738, y: 0.27107516, z: 0.06607215, w: -0.22740418}
+      scale: {x: 1.0000002, y: 1.0000033, z: 1.0000272}
+    - name: right_front_hair1
+      parentName: right_front_hair
+      position: {x: -0, y: 0.0007868412, z: -1.8474107e-18}
+      rotation: {x: -0.11695508, y: -0.033217967, z: 0.28268242, w: 0.9514772}
+      scale: {x: 1.0000021, y: 1.0000362, z: 1.0000279}
+    - name: right_front_hair2
+      parentName: right_front_hair1
+      position: {x: 1.9628742e-18, y: 0.0008326283, z: 9.237054e-19}
+      rotation: {x: -0, y: -0, z: -0.000000008847564, w: 1}
+      scale: {x: 1.0000007, y: 0.99999565, z: 0.999996}
+    - name: right_front_hair3
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00013018482, y: 0.0009858934, z: 0.00045114732}
+      rotation: {x: 0.8667449, y: -0.48769268, z: -0.051218253, w: -0.09102691}
+      scale: {x: 1.0000002, y: 1.0000286, z: 1.00003}
+    - name: right_front_hair4
+      parentName: right_front_hair3
+      position: {x: 0.0001122056, y: 0.0009749559, z: 0.00041525633}
+      rotation: {x: 0.0121970475, y: -0.008350935, z: -0.41198263, w: 0.91107184}
+      scale: {x: 0.99999976, y: 1.0000453, z: 1.0000353}
+    - name: right_front_hair5
+      parentName: right_front_hair4
+      position: {x: 1.8474107e-18, y: 0.0009744338, z: 1.8474107e-18}
+      rotation: {x: -0, y: -0, z: -0.000000007588823, w: 1}
+      scale: {x: 1.0000018, y: 1.0000441, z: 1.000043}
+    - name: right_back_hair4
+      parentName: CosmoGirl1_Head
+      position: {x: 0.000049131704, y: 0.0014634234, z: -0.00017829036}
+      rotation: {x: 0.4501968, y: 0.5915842, z: -0.3643112, w: 0.5609175}
+      scale: {x: 1.0000325, y: 1.0000278, z: 1.000031}
+    - name: right_back_hair5
+      parentName: right_back_hair4
+      position: {x: 0.00005030909, y: -0.00069671153, z: 0.000039176924}
+      rotation: {x: -0.42327732, y: -0.010275006, z: 0.017276883, w: 0.9057772}
+      scale: {x: 1.0000161, y: 0.9999953, z: 1.0000186}
+    - name: right_back_hair6
+      parentName: right_back_hair5
+      position: {x: -8.64859e-10, y: -0.001055726, z: 2.8995858e-10}
+      rotation: {x: -0.292294, y: 0.0012045753, z: 0.02699763, w: 0.9559467}
+      scale: {x: 1.0000288, y: 0.99998343, z: 1.0000571}
+    - name: right_back_hair7
+      parentName: right_back_hair6
+      position: {x: -0.000021232196, y: -0.0008113259, z: -0.00027755575}
+      rotation: {x: 0.9746791, y: -0.18802665, z: -0.022308182, w: 0.11894929}
+      scale: {x: 1.0000018, y: 0.99996305, z: 1.0000916}
+    - name: right_back_hair
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00041475147, y: 0.001252745, z: -0.00019361096}
+      rotation: {x: -0.6945771, y: -0.13489018, z: -0.4066062, w: 0.5779609}
+      scale: {x: 1.0000052, y: 1.0000355, z: 1.0000272}
+    - name: right_back_hair1
+      parentName: right_back_hair
+      position: {x: -0, y: 0.0004926907, z: 7.389643e-18}
+      rotation: {x: 0.42327732, y: 0.010274987, z: -0.01727694, w: -0.90577716}
+      scale: {x: 1.0000083, y: 1.0000324, z: 1.0000211}
+    - name: right_back_hair2
+      parentName: right_back_hair1
+      position: {x: 1.8474107e-18, y: 0.0010557242, z: -3.6948214e-18}
+      rotation: {x: -0.29229414, y: 0.0012046229, z: 0.026997536, w: 0.9559466}
+      scale: {x: 1.0000038, y: 1.0000234, z: 0.99996}
+    - name: right_back_hair3
+      parentName: right_back_hair2
+      position: {x: -6.465938e-18, y: 0.0008804926, z: 1.8474107e-18}
+      rotation: {x: -0.97467923, y: 0.18802655, z: 0.022308342, w: -0.118949085}
+      scale: {x: 1.0000288, y: 1.0000408, z: 0.9999681}
+    - name: back_hair1
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00014526065, y: 0.0012813958, z: -0.0005231031}
+      rotation: {x: -0.84931326, y: 0.08967421, z: 0.054623157, w: 0.5173412}
+      scale: {x: 0.9999995, y: 1.0000381, z: 1.0000247}
+    - name: back_hair2
+      parentName: back_hair1
+      position: {x: -0.0000072930266, y: 0.0008457173, z: -0.000029723195}
+      rotation: {x: 0.46284747, y: -0.07541158, z: 0.04315377, w: -0.8821696}
+      scale: {x: 1.0000008, y: 1.0000437, z: 1.00003}
+    - name: back_hair3
+      parentName: back_hair2
+      position: {x: -0, y: 0.0009665764, z: 1.8474107e-18}
+      rotation: {x: -0.107371345, y: 0.009136084, z: -0.027582187, w: 0.9937944}
+      scale: {x: 1.0000049, y: 1.000092, z: 0.999996}
+    - name: back_hair4
+      parentName: back_hair3
+      position: {x: 4.618527e-19, y: 0.00083139143, z: -4.618527e-19}
+      rotation: {x: -0, y: -0, z: 9.3132235e-10, w: 1}
+      scale: {x: 1.0000024, y: 1.0000241, z: 1.0000155}
+    - name: front_hair1
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00032781254, y: 0.0008652689, z: 0.00067589834}
+      rotation: {x: 0.9736444, y: 0.09880802, z: -0.02075389, w: 0.2045067}
+      scale: {x: 1, y: 1.0000464, z: 1.0000467}
+    - name: front_hair2
+      parentName: front_hair1
+      position: {x: -0.000005480973, y: 0.0005931131, z: -0.00007556532}
+      rotation: {x: 0.4542164, y: 0.18008609, z: -0.15207464, w: 0.85914487}
+      scale: {x: 1.0000021, y: 1.0000334, z: 1.0000305}
+    - name: front_hair3
+      parentName: front_hair2
+      position: {x: -1.8474107e-18, y: 0.00065283425, z: -1.66267e-17}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000015, y: 1.0000072, z: 1.0000088}
+    - name: left_eye
+      parentName: CosmoGirl1_Head
+      position: {x: -0.0003930952, y: -0.00006777095, z: 0.0006933763}
+      rotation: {x: -0.7016327, y: 0.08591025, z: 0.027543673, w: 0.7068044}
+      scale: {x: 1, y: 1.000018, z: 1.0000087}
+    - name: left_eye1
+      parentName: left_eye
+      position: {x: -0.000000002816082, y: -0.00011495011, z: 0.00000003840142}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000125, z: 1.0000098}
+    - name: right_eye
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00039309493, y: -0.00006771297, z: 0.0006933756}
+      rotation: {x: 0.7068044, y: -0.02754368, z: 0.085910246, w: 0.7016326}
+      scale: {x: 1, y: 1.0000075, z: 1.0000057}
+    - name: right_eye1
+      parentName: right_eye
+      position: {x: -5.7731585e-20, y: 0.000114951465, z: -7.389643e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000049, z: 1.0000033}
+    - name: eyelid_right
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00039545476, y: -0.00004710095, z: 0.00062025257}
+      rotation: {x: -0.77788603, y: 0.0011285075, z: 0.0009116484, w: 0.6284038}
+      scale: {x: 0.9999924, y: 1.0000176, z: 1.0000249}
+    - name: eyelid_right1
+      parentName: eyelid_right
+      position: {x: -3.9380624e-10, y: -0.00023894594, z: -0.000000051113364}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999953, y: 1.000011, z: 1.0000156}
+    - name: eyelid_left
+      parentName: CosmoGirl1_Head
+      position: {x: -0.0003954542, y: -0.000047089903, z: 0.00062025234}
+      rotation: {x: 0.62840384, y: -0.0009116483, z: 0.0011285074, w: 0.777886}
+      scale: {x: 0.9999924, y: 1.0000156, z: 1.0000284}
+    - name: eyelid_left1
+      parentName: eyelid_left
+      position: {x: -1.7319478e-19, y: 0.00023895732, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999953, y: 1.0000108, z: 1.0000153}
+    - name: lip_left
+      parentName: CosmoGirl1_Head
+      position: {x: -0.00029704734, y: -0.0009665168, z: 0.00081953086}
+      rotation: {x: 0.99780744, y: 4.0884196e-18, z: -0.06618405, w: -6.055809e-17}
+      scale: {x: 1.000001, y: 1, z: 1.0000182}
+    - name: lip_left1
+      parentName: lip_left
+      position: {x: 0.0000014478004, y: -0.000101269994, z: -0.000047826205}
+      rotation: {x: -0, y: -0, z: 4.135903e-25, w: 1}
+      scale: {x: 1.0000049, y: 1, z: 1.0000131}
+    - name: lip_right
+      parentName: CosmoGirl1_Head
+      position: {x: 0.00029704755, y: -0.0009686854, z: 0.00081953086}
+      rotation: {x: -0, y: -0.066184044, z: -0, w: 0.99780744}
+      scale: {x: 1.000001, y: 1, z: 1.000001}
+    - name: lip_right1
+      parentName: lip_right
+      position: {x: -0.0000014482789, y: 0.00010134692, z: 0.000047825615}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000045, y: 1, z: 1.0000045}
+    - name: right_neck_hydraulics5
+      parentName: CosmoGirl1_Spine2
+      position: {x: 0.00013723578, y: 0.0009480668, z: 0.000120126686}
+      rotation: {x: 0.9956457, y: -0.09321182, z: 0.000105852414, w: 0.0011306665}
+      scale: {x: 1, y: 1.0000472, z: 1.0000472}
+    - name: right_neck_hydraulics5_3
+      parentName: right_neck_hydraulics5
+      position: {x: 0.000000017773598, y: -0.0008367963, z: 1.9458159e-10}
+      rotation: {x: -0.023899624, y: 0.0044475677, z: -0.002704948, w: 0.9997008}
+      scale: {x: 0.9999987, y: 1.0000217, z: 1.0000274}
+    - name: right_neck_hydraulics5_4
+      parentName: right_neck_hydraulics5_3
+      position: {x: -0.0000000031284864, y: -0.00031628515, z: -9.448315e-10}
+      rotation: {x: -0.0000000018626449, y: -0, z: 1.0186339e-10, w: 1}
+      scale: {x: 0.9999996, y: 1.0000252, z: 1.000025}
+    - name: left_neck_hydraulics
+      parentName: CosmoGirl1_Spine2
+      position: {x: -0.00013723601, y: 0.0009480104, z: 0.00012012666}
+      rotation: {x: -0.0011306664, y: 0.00010585234, z: 0.09321181, w: 0.9956457}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: left_neck_hydraulics1
+      parentName: left_neck_hydraulics
+      position: {x: -9.237054e-19, y: 0.00083688984, z: 6.76542e-21}
+      rotation: {x: -0.023899619, y: 0.004447568, z: -0.0027049216, w: 0.9997008}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: left_neck_hydraulics2
+      parentName: left_neck_hydraulics1
+      position: {x: -1.3855582e-18, y: 0.000316267, z: -6.927791e-19}
+      rotation: {x: -0.0000000018626449, y: -0, z: 8.7311484e-11, w: 1}
+      scale: {x: 1.0000056, y: 1, z: 1}
+    - name: right_up_neck_hydraulics
+      parentName: CosmoGirl1_Spine2
+      position: {x: 0.0013625688, y: 0.0018141266, z: -0.00057616766}
+      rotation: {x: 0.92612284, y: 0.35257456, z: 0.081257835, w: -0.1067003}
+      scale: {x: 1.000004, y: 1.0000374, z: 1.0000428}
+    - name: right_up_neck_hydraulics1
+      parentName: right_up_neck_hydraulics
+      position: {x: -0.000000055437773, y: -0.00070838915, z: -0.000000023321196}
+      rotation: {x: -0.008457668, y: -0.007683851, z: -0.0027546287, w: 0.999931}
+      scale: {x: 1.0000018, y: 1.0000125, z: 1.0000252}
+    - name: right_up_neck_hydraulics2
+      parentName: right_up_neck_hydraulics1
+      position: {x: 0.0000000613045, y: -0.00023436936, z: 0.0000000222317}
+      rotation: {x: 0.0000000074505797, y: 0.0000000037252899, z: 2.9103827e-11, w: 1}
+      scale: {x: 1.0000042, y: 1.0000097, z: 1.0000111}
+    - name: left_up_neck_hydraulics
+      parentName: CosmoGirl1_Spine2
+      position: {x: -0.0013625746, y: 0.001814091, z: -0.00057616737}
+      rotation: {x: 0.10670032, y: 0.08125784, z: -0.35257456, w: 0.9261228}
+      scale: {x: 1, y: 0.9999999, z: 1.0000005}
+    - name: left_up_neck_hydraulics1
+      parentName: left_up_neck_hydraulics
+      position: {x: 5.542233e-18, y: 0.0007084613, z: 0}
+      rotation: {x: -0.0084576905, y: -0.0076838806, z: -0.0027547013, w: 0.9999309}
+      scale: {x: 0.99999994, y: 1.0000024, z: 1.0000006}
+    - name: left_up_neck_hydraulics2
+      parentName: left_up_neck_hydraulics1
+      position: {x: -5.542233e-18, y: 0.0002342998, z: 0}
+      rotation: {x: -0, y: -0, z: 3.6379788e-11, w: 1}
+      scale: {x: 1.0000023, y: 1.0000023, z: 1}
+    - name: shield1
+      parentName: CosmoGirl1_Hips
+      position: {x: 0.0011754665, y: 0.00005224551, z: 0.0012224293}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.012999999
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

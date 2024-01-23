@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73406ea2761c4574096d095b42726873, type: 3}
+  m_Name: Small_Door_Unlocked
+  m_EditorClassIdentifier: 
+  m_soundClips:
+  - {fileID: 8300000, guid: 03a391fa55780a546af78f27cf8bb60d, type: 3}
+  m_canAudioSourceRepeatClips: 0
+  m_isAudioSourceLooped: 0
+  m_isAudio3D: 1
+  m_soundPitchRange: {x: 0.9, y: 1.1}
+  m_soundVolumeRange: {x: 0.8, y: 1}
+  m_soundRange: {x: 1, y: 500}
+  m_soundRolloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_soundSpatialBlendCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_soundSpreadCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_soundReverbMixCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_soundTypes: 0
+  m_soundStartingIntensity: 0
+  m_soundEndingIntensity: 0
+  m_soundStartDelay: 0.2
+  m_soundEndDelay: 0.3
+  m_soundScanMaterial: {fileID: 11400000, guid: 0a3a17fa1654fb94981c627364097aa0,
+    type: 2}
+  m_scanSpeed: 10
+  m_scanMaxDistance: 2
+  m_scanDistanceStopOffset: 0
+  m_scanWaveWidth: 20
+  m_scanLeadingEdgeWidth: 4
+  m_scanWaveRepetitions: 1

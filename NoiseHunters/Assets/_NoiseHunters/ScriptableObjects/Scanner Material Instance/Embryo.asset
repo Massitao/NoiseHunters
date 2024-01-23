@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cf0670738948ec4da57b133680d7b73, type: 3}
+  m_Name: Embryo
+  m_EditorClassIdentifier: 
+  m_scanEnableHorizontalBars: 0
+  m_scanTexture: {fileID: 2800000, guid: e0a1e05e4f35f2d41af766a827bf5a7e, type: 3}
+  m_scanCustomSoundColors: 1
+  m_scanLeadingEdgeColor: {r: 0.990566, g: 0.8077057, b: 0, a: 0}
+  m_scanMidColor: {r: 1, g: 0.49895784, b: 0.042452812, a: 0}
+  m_scanTrailColor: {r: 1, g: 0.15351897, b: 0.042452812, a: 0}
+  m_scanCustomTextureColor: 0
+  m_scanTextureColor: {r: 0, g: 0, b: 0, a: 0}

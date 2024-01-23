@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: ef6131ad0a87fe0479541b4d50714407
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: SA_MechanicalArm_02
+  - first:
+      1: 100002
+    second: SA_MechanicalArm_03
+  - first:
+      1: 100004
+    second: SA_MechanicalArm_04
+  - first:
+      1: 100006
+    second: SA_MechanicalArm_05
+  - first:
+      1: 100008
+    second: SA_MechanicalArm_06
+  - first:
+      1: 100010
+    second: SA_MechanicalArm_07
+  - first:
+      1: 100012
+    second: SA_MechanicalArm_08
+  - first:
+      1: 100014
+    second: SA_MechanicalArm_09
+  - first:
+      1: 100016
+    second: //RootNode
+  - first:
+      1: 100018
+    second: SA_MechanicalArm_Claw_01
+  - first:
+      1: 100020
+    second: SA_MechanicalArm_Claw_02
+  - first:
+      1: 100022
+    second: SA_MechanicalArm_01
+  - first:
+      4: 400000
+    second: SA_MechanicalArm_02
+  - first:
+      4: 400002
+    second: SA_MechanicalArm_03
+  - first:
+      4: 400004
+    second: SA_MechanicalArm_04
+  - first:
+      4: 400006
+    second: SA_MechanicalArm_05
+  - first:
+      4: 400008
+    second: SA_MechanicalArm_06
+  - first:
+      4: 400010
+    second: SA_MechanicalArm_07
+  - first:
+      4: 400012
+    second: SA_MechanicalArm_08
+  - first:
+      4: 400014
+    second: SA_MechanicalArm_09
+  - first:
+      4: 400016
+    second: //RootNode
+  - first:
+      4: 400018
+    second: SA_MechanicalArm_Claw_01
+  - first:
+      4: 400020
+    second: SA_MechanicalArm_Claw_02
+  - first:
+      4: 400022
+    second: SA_MechanicalArm_01
+  - first:
+      21: 2100000
+    second: Gray64
+  - first:
+      21: 2100002
+    second: Gray127
+  - first:
+      21: 2100004
+    second: Gray100
+  - first:
+      21: 2100006
+    second: ProBuilderDefault
+  - first:
+      21: 2100008
+    second: Gray32
+  - first:
+      21: 2100010
+    second: MachineBlue
+  - first:
+      21: 2100012
+    second: MachineYellow
+  - first:
+      21: 2100014
+    second: DarkBlue
+  - first:
+      21: 2100016
+    second: lambert1
+  - first:
+      21: 2100018
+    second: Black iron
+  - first:
+      21: 2100020
+    second: Diikou
+  - first:
+      21: 2100022
+    second: Baking
+  - first:
+      21: 2100024
+    second: White iron
+  - first:
+      21: 2100026
+    second: Wire
+  - first:
+      21: 2100028
+    second: Huang Tie
+  - first:
+      23: 2300000
+    second: SA_MechanicalArm_02
+  - first:
+      23: 2300002
+    second: SA_MechanicalArm_03
+  - first:
+      23: 2300004
+    second: SA_MechanicalArm_04
+  - first:
+      23: 2300006
+    second: SA_MechanicalArm_05
+  - first:
+      23: 2300008
+    second: SA_MechanicalArm_06
+  - first:
+      23: 2300010
+    second: SA_MechanicalArm_07
+  - first:
+      23: 2300012
+    second: SA_MechanicalArm_08
+  - first:
+      23: 2300014
+    second: SA_MechanicalArm_09
+  - first:
+      23: 2300016
+    second: //RootNode
+  - first:
+      23: 2300018
+    second: SA_MechanicalArm_Claw_01
+  - first:
+      23: 2300020
+    second: SA_MechanicalArm_Claw_02
+  - first:
+      23: 2300022
+    second: SA_MechanicalArm_01
+  - first:
+      33: 3300000
+    second: SA_MechanicalArm_02
+  - first:
+      33: 3300002
+    second: SA_MechanicalArm_03
+  - first:
+      33: 3300004
+    second: SA_MechanicalArm_04
+  - first:
+      33: 3300006
+    second: SA_MechanicalArm_05
+  - first:
+      33: 3300008
+    second: SA_MechanicalArm_06
+  - first:
+      33: 3300010
+    second: SA_MechanicalArm_07
+  - first:
+      33: 3300012
+    second: SA_MechanicalArm_08
+  - first:
+      33: 3300014
+    second: SA_MechanicalArm_09
+  - first:
+      33: 3300016
+    second: //RootNode
+  - first:
+      33: 3300018
+    second: SA_MechanicalArm_Claw_01
+  - first:
+      33: 3300020
+    second: SA_MechanicalArm_Claw_02
+  - first:
+      33: 3300022
+    second: SA_MechanicalArm_01
+  - first:
+      43: 4300000
+    second: SA_MechanicalArm_Assembled
+  - first:
+      43: 4300002
+    second: SA_MechanicalArm_02
+  - first:
+      43: 4300004
+    second: SA_MechanicalArm_03
+  - first:
+      43: 4300006
+    second: SA_MechanicalArm_04
+  - first:
+      43: 4300008
+    second: SA_MechanicalArm_05
+  - first:
+      43: 4300010
+    second: SA_MechanicalArm_06
+  - first:
+      43: 4300012
+    second: SA_MechanicalArm_07
+  - first:
+      43: 4300014
+    second: SA_MechanicalArm_08
+  - first:
+      43: 4300016
+    second: SA_MechanicalArm_09
+  - first:
+      43: 4300018
+    second: SA_MechanicalArm_Claw_01
+  - first:
+      43: 4300020
+    second: SA_MechanicalArm_Claw_02
+  - first:
+      43: 4300022
+    second: SA_MechanicalArm_01
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baking
+    second: {fileID: 2100000, guid: 91ea8dc9c9f4a7a408b05f3d2dceb05d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black iron
+    second: {fileID: 2100000, guid: caa071c080cb9c644b718113db983c01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Diikou
+    second: {fileID: 2100000, guid: de6ceae1aec76204eb4c893e5184a385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Huang Tie
+    second: {fileID: 2100000, guid: d25775c67cd7b9048a6c547dc9704c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White iron
+    second: {fileID: 2100000, guid: 03c1c8ea2d9cfdf4d91dfe92eaff3c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wire
+    second: {fileID: 2100000, guid: caa071c080cb9c644b718113db983c01, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

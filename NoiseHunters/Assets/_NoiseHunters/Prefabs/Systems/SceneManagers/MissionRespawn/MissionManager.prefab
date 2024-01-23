@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4650780000166527488
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4650780000166527490}
+  - component: {fileID: 5167309343418401329}
+  m_Layer: 0
+  m_Name: MissionManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4650780000166527490
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4650780000166527488}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 59.95109, y: -25.381187, z: 125.61139}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5167309343418401329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4650780000166527488}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da709fba85d9cee48843d623658a2c0d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  missionManagerUIPrefab: {fileID: 6281801599649498961, guid: b829f5a6609b32045817d80a14598b5c,
+    type: 3}
+  sceneMissions:
+  - name: 
+    missionDescription: 
+    progressToNextMissionOnComplete: 0
+    OnThisMissionComplete:
+      m_PersistentCalls:
+        m_Calls: []
+    intermediateGoals: []
+  currentMission:
+    name: 
+    missionDescription: This description will NOT be shown in the Mission List UI.
+      Its purpose is to guide you plan missions, so you can leave it blank if you
+      want.
+    progressToNextMissionOnComplete: 1
+    OnThisMissionComplete:
+      m_PersistentCalls:
+        m_Calls: []
+    intermediateGoals: []
+  currentIntermediateGoal:
+    name: 
+    intermediateGoalDescription: This description will NOT be shown in the Mission
+      List UI. Its purpose is to guide you plan missions, so you can leave it blank
+      if you want.
+    progressToNextIntermediateGoalOnComplete: 1
+    OnThisIntermediateGoalComplete:
+      m_PersistentCalls:
+        m_Calls: []
+    objectives: []

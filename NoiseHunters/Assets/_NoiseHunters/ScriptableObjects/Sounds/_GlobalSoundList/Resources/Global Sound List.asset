@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e93d0459f4bded1499c8ac4017397f6a, type: 3}
+  m_Name: Global Sound List
+  m_EditorClassIdentifier: 
+  SoundBubblePrefab: {fileID: 4254499054775860148, guid: 5cfd7ecd4ece42b4fbd16f0e16f77843,
+    type: 3}
+  scannerBase: {fileID: 2100000, guid: 0d9079b2a57addc42bc122b2732e59b1, type: 2}
+  scannerTierEntitySound: {fileID: 2100000, guid: 58596bd1c8f646e41a0383df0981180a,
+    type: 2}
+  scannerTierMediumEntitySound: {fileID: 2100000, guid: b988f29a305c9f6438b7cc3a0d165cce,
+    type: 2}
+  scannerTierSubtleEntitySound: {fileID: 2100000, guid: 374971419fede0a4e87310ce4e84d583,
+    type: 2}
+  scannerTierSilencer: {fileID: 2100000, guid: c3fbef18bd641954abd88690f30045bb, type: 2}
+  scannerTierMediumSilencer: {fileID: 2100000, guid: 27b4aacbebcfde049ba16652977dbd85,
+    type: 2}
+  scannerTierSubtleSilencer: {fileID: 2100000, guid: db73f0da5f2a54d41b7a7838ef7e5fe3,
+    type: 2}
+  scannerTierHES: {fileID: 2100000, guid: 3e1ff91bd07f3094bb34bf828c0cfa45, type: 2}
+  scannerMediumTierHES: {fileID: 2100000, guid: 7f3953ff0cadb3644b64c7a5c6d41c3f,
+    type: 2}
+  scannerSubtleTierHES: {fileID: 2100000, guid: ad62a62670159454bbe1d9f2a8f039ef,
+    type: 2}
+  entitySoundLowestIntensityColor: {r: 0.5283019, g: 0.5283019, b: 0.5283019, a: 0}
+  entitySoundMediumLowestIntensityColor: {r: 0.26666668, g: 0.26666668, b: 0.26666668,
+    a: 0}
+  entitySoundSubtleLowestIntensityColor: {r: 0.13333334, g: 0.13333334, b: 0.13333334,
+    a: 0}
+  HESSoundLowestIntensityColor: {r: 0.254717, g: 0.254717, b: 0.254717, a: 0}
+  HESSoundMediumLowestIntensityColor: {r: 0.1254902, g: 0.1254902, b: 0.1254902, a: 0}
+  HESSoundSubtleLowestIntensityColor: {r: 0.0627451, g: 0.0627451, b: 0.0627451, a: 0}
+  silencerSoundRadiusReductionPercentage: 0.1

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73406ea2761c4574096d095b42726873, type: 3}
+  m_Name: Heartbeat1
+  m_EditorClassIdentifier: 
+  m_soundClips:
+  - {fileID: 8300000, guid: ae28b67039a87d148aeeadfe3c4e6a1c, type: 3}
+  m_canAudioSourceRepeatClips: 0
+  m_isAudioSourceLooped: 0
+  m_isAudio3D: 1
+  m_soundPitchRange: {x: 0.8, y: 0.9}
+  m_soundVolumeRange: {x: 0.6, y: 0.7}
+  m_soundTypes: 1
+  m_soundIntensity: 0.2
+  m_soundStartDelay: 0
+  m_soundEndDelay: 0
+  m_soundScanMaterial: {fileID: 11400000, guid: 10829825ffe0f5342898580848520123,
+    type: 2}
+  m_scanSpeed: 20
+  m_scanMaxDistance: 10
+  m_scanDistanceStopOffset: 0
+  m_scanWaveWidth: 2
+  m_scanLeadingEdgeWidth: 0
+  m_scanWaveRepetitions: 30

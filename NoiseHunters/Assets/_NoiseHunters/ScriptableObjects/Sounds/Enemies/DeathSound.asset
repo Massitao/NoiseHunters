@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73406ea2761c4574096d095b42726873, type: 3}
+  m_Name: DeathSound
+  m_EditorClassIdentifier: 
+  m_soundClips:
+  - {fileID: 8300000, guid: 9753572effd97f2448800db65bde86b3, type: 3}
+  - {fileID: 8300000, guid: 4cc6b15cc6fc53642b70a3d44837d006, type: 3}
+  - {fileID: 8300000, guid: 891e258a6932abb4eaa6fd9def09c935, type: 3}
+  - {fileID: 8300000, guid: 277f6b13adc839141a83a9cbb6ba6ff4, type: 3}
+  m_canAudioSourceRepeatClips: 0
+  m_isAudioSourceLooped: 0
+  m_isAudio3D: 1
+  m_soundPitchRange: {x: 0.9, y: 1.1}
+  m_soundVolumeRange: {x: 0.8, y: 1}
+  m_soundRange: {x: 1, y: 500}
+  m_soundTypes: 0
+  m_soundStartingIntensity: 0
+  m_soundEndingIntensity: 0
+  m_soundStartDelay: 0
+  m_soundEndDelay: 0
+  m_soundScanMaterial: {fileID: 0}
+  m_scanSpeed: 0
+  m_scanMaxDistance: 0
+  m_scanDistanceStopOffset: 0
+  m_scanWaveWidth: 0
+  m_scanLeadingEdgeWidth: 0
+  m_scanWaveRepetitions: 0

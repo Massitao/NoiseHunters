@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73406ea2761c4574096d095b42726873, type: 3}
+  m_Name: DaggerOnCollision_Medium
+  m_EditorClassIdentifier: 
+  m_soundClips:
+  - {fileID: 8300000, guid: aa95395669267b741b28c1f2ff963436, type: 3}
+  - {fileID: 8300000, guid: 6b43a261a317de24183305ec16b600d6, type: 3}
+  - {fileID: 8300000, guid: 74801d5eeb1e81846b2f3860f4950bb0, type: 3}
+  m_canAudioSourceRepeatClips: 1
+  m_isAudioSourceLooped: 0
+  m_isAudio3D: 1
+  m_soundPitchRange: {x: 0.9, y: 1.1}
+  m_soundVolumeRange: {x: 0.9, y: 1}
+  m_soundRange: {x: 0.5, y: 500}
+  m_soundRolloffCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_soundSpatialBlendCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_soundSpreadCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_soundReverbMixCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_soundTypes: 0
+  m_soundStartingIntensity: 1
+  m_soundEndingIntensity: 0.8
+  m_soundStartDelay: 0
+  m_soundEndDelay: 0
+  m_soundScanMaterial: {fileID: 11400000, guid: c810a8aa6a46de34f8ca2321488690ac,
+    type: 2}
+  m_scanSpeed: 20
+  m_scanMaxDistance: 12
+  m_scanDistanceStopOffset: 0
+  m_scanWaveWidth: 26
+  m_scanLeadingEdgeWidth: 2
+  m_scanWaveRepetitions: 1
